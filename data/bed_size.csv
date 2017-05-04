@@ -1,0 +1,13 @@
+Bed,Width,Length,Area,Color,Alt_Color,Standard Size,http://www.sizechart.com/home/bed-size/us/index.html
+Crib,28,52,1456,#a6cee3,#969696,Yes,
+Small Single/Cot,30,75,2250,#1f78b4,#1f78b4,No,
+Twin,39,75,2925,#b2df8a,#969696,Yes,
+Twin-XL,39,80,3120,#33a02c,#33a02c,No,
+Three Quarter,48,75,3600,#fb9a99,#969696,Yes,
+Full,54,75,4050,#e31a1c,#969696,Yes,
+Full XL,54,80,4320,#fdbf6f,#fdbf6f,No,
+Queen,60,80,4800,#ff7f00,#969696,Yes,
+Super Queen,66,80,5280,#cab2d6,#cab2d6,No,
+King,76,80,6080,#6a3d9a,#969696,Yes,
+Cal King,72,84,6048,#ffff99,#969696,Yes,
+Texas King,80,98,7840,#b15928,#b15928,No,
