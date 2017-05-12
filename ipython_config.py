@@ -24,8 +24,8 @@ c.InteractiveShellApp.exec_lines = [
     'from pylab import *',
     'from __future__ import division',
     'from datetime import datetime',
-    '%pylab inline'
     
-    
-    
+
+
+
 ]
