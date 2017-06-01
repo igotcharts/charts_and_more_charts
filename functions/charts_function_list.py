@@ -58,3 +58,11 @@ def line_chart(x,y,xlabel=None,ylabel=None,title=None,
     ax.text(0,chart_tag_y,chart_tag,transform=ax.transAxes,fontsize=14,alpha=.4)
 
     return fig, ax
+
+def multi_numeric_index(df):
+    numeric_index = []
+    for item in df.index.get_level_values(0).unique():
+        numeric_index.append(list([i for i,v in enumerate(df.loc[item].values)]))
+    single_list_index = [item for sublist in numeric_index for item in sublist]
+    df.set_index([df.index,single_list_index],inplace=True)
+    return df
