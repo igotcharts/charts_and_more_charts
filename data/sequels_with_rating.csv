@@ -1,0 +1,89 @@
+Category,level_1,imdb_id,title,year,rating,votes
+Child's Play,0,tt0094862,Child's Play,1988,6.5,65827
+Child's Play,1,tt0099253,Child's Play 2,1990,5.7,33458
+Child's Play,2,tt0103956,Child's Play 3,1991,5.0,26577
+Child's Play,3,tt0144120,Bride of Chucky,1998,5.4,41712
+Child's Play,4,tt0387575,Seed of Chucky,2004,4.9,30139
+Child's Play,5,tt2230358,Curse of Chucky,2013,5.6,24885
+Die Hard,0,tt0095016,Die Hard,1988,8.2,632420
+Die Hard,1,tt0099423,Die Hard 2,1990,7.1,283823
+Die Hard,2,tt0112864,Die Hard with a Vengeance,1995,7.6,312744
+Die Hard,3,tt0337978,Live Free or Die Hard,2007,7.2,347866
+Die Hard,4,tt1606378,A Good Day to Die Hard,2013,5.3,172998
+Fast and Furious,0,tt0232500,The Fast and the Furious,2001,6.7,289807
+Fast and Furious,1,tt0322259,2 Fast 2 Furious,2003,5.9,206190
+Fast and Furious,2,tt0463985,The Fast and the Furious: Tokyo Drift,2006,6.0,193928
+Fast and Furious,3,tt1013752,Fast & Furious,2009,6.6,217861
+Fast and Furious,4,tt1596343,Fast Five,2011,7.3,301330
+Fast and Furious,5,tt1905041,Fast & Furious 6,2013,7.1,318559
+Fast and Furious,6,tt2820852,Furious 7,2015,7.2,301927
+Fast and Furious,7,tt4630562,The Fate of the Furious,2017,7.1,82195
+Final Destination,0,tt0195714,Final Destination,2000,6.7,190338
+Final Destination,1,tt0309593,Final Destination 2,2003,6.2,126766
+Final Destination,2,tt0414982,Final Destination 3,2006,5.8,108387
+Final Destination,3,tt1144884,The Final Destination,2009,5.2,79538
+Final Destination,4,tt1622979,Final Destination 5,2011,5.9,88121
+Friday the 13th,0,tt0080761,Friday the 13th,1980,6.5,89096
+Friday the 13th,1,tt0082418,Friday the 13th Part 2,1981,6.1,42799
+Friday the 13th,2,tt0083972,Friday the 13th Part III,1982,5.7,34526
+Friday the 13th,3,tt0087298,Friday the 13th: The Final Chapter,1984,5.9,31892
+Friday the 13th,4,tt0089173,Friday the 13th: A New Beginning,1985,4.8,24154
+Friday the 13th,5,tt0091080,Jason Lives: Friday the 13th Part VI,1986,5.9,27328
+Friday the 13th,6,tt0095179,Friday the 13th Part VII: The New Blood,1988,5.3,23132
+Friday the 13th,7,tt0097388,Friday the 13th Part VIII: Jason Takes Manhattan,1989,4.6,24670
+Friday the 13th,8,tt0107254,Jason Goes to Hell: The Final Friday,1993,4.3,20678
+Friday the 13th,9,tt0211443,Jason X,2001,4.4,41056
+Friday the 13th,10,tt0329101,Freddy vs. Jason,2003,5.8,93212
+Friday the 13th,10,tt0329101,Freddy vs. Jason,2003,5.8,93212
+Mission Impossible,0,tt0117060,Mission: Impossible,1996,7.1,317281
+Mission Impossible,1,tt0120755,Mission: Impossible II,2000,6.1,255698
+Mission Impossible,2,tt0317919,Mission: Impossible III,2006,6.9,270741
+Mission Impossible,3,tt1229238,Mission: Impossible - Ghost Protocol,2011,7.4,382842
+Mission Impossible,4,tt2381249,Mission: Impossible - Rogue Nation,2015,7.4,257925
+Nightmare on Elm Street,0,tt0087800,A Nightmare on Elm Street,1984,7.5,160283
+Nightmare on Elm Street,1,tt0089686,A Nightmare on Elm Street 2: Freddy's Revenge,1985,5.4,46686
+Nightmare on Elm Street,2,tt0093629,A Nightmare on Elm Street 3: Dream Warriors,1987,6.6,53504
+Nightmare on Elm Street,3,tt0095742,A Nightmare on Elm Street 4: The Dream Master,1988,5.7,38670
+Nightmare on Elm Street,4,tt0097981,A Nightmare on Elm Street 5: The Dream Child,1989,5.1,31689
+Nightmare on Elm Street,5,tt0101917,Freddy's Dead: The Final Nightmare,1991,4.9,32743
+Nightmare on Elm Street,6,tt0111686,New Nightmare,1994,6.4,40470
+Nightmare on Elm Street,7,tt0329101,Freddy vs. Jason,2003,5.8,93212
+Nightmare on Elm Street,7,tt0329101,Freddy vs. Jason,2003,5.8,93212
+Police Academy,0,tt0087928,Police Academy,1984,6.7,92541
+Police Academy,1,tt0089822,Police Academy 2: Their First Assignment,1985,5.6,41590
+Police Academy,2,tt0091777,Police Academy 3: Back in Training,1986,5.2,34635
+Police Academy,3,tt0093756,Police Academy 4: Citizens on Patrol,1987,4.8,33215
+Police Academy,4,tt0095882,Police Academy 5: Assignment: Miami Beach,1988,4.4,26882
+Police Academy,5,tt0098105,Police Academy 6: City Under Siege,1989,4.2,23172
+Police Academy,6,tt0110857,Police Academy: Mission to Moscow,1994,3.3,26171
+Resident Evil,0,tt0120804,Resident Evil,2002,6.7,212408
+Resident Evil,1,tt0318627,Resident Evil: Apocalypse,2004,6.2,162201
+Resident Evil,2,tt0432021,Resident Evil: Extinction,2007,6.3,159984
+Resident Evil,3,tt1220634,Resident Evil: Afterlife,2010,5.9,141110
+Resident Evil,4,tt1855325,Resident Evil: Retribution,2012,5.4,114349
+Resident Evil,5,tt2592614,Resident Evil: The Final Chapter,2016,5.6,47422
+Rocky,0,tt0075148,Rocky,1976,8.1,406949
+Rocky,1,tt0079817,Rocky II,1979,7.2,148787
+Rocky,2,tt0084602,Rocky III,1982,6.7,133887
+Rocky,3,tt0089927,Rocky IV,1985,6.8,145486
+Rocky,4,tt0100507,Rocky V,1990,5.2,99910
+Rocky,5,tt0479143,Rocky Balboa,2006,7.2,171544
+Rocky,6,tt3076658,Creed,2015,7.6,176080
+Saw,0,tt0387564,Saw,2004,7.7,315628
+Saw,1,tt0432348,Saw II,2005,6.6,197217
+Saw,2,tt0489270,Saw III,2006,6.2,149145
+Saw,3,tt0890870,Saw IV,2007,5.9,116715
+Saw,4,tt1132626,Saw V,2008,5.8,93516
+Saw,5,tt1233227,Saw VI,2009,6.0,80917
+Saw,6,tt1477076,Saw 3D: The Final Chapter,2010,5.6,72063
+Star Trek,0,tt0079945,Star Trek: The Motion Picture,1979,6.4,67186
+Star Trek,1,tt0084726,Star Trek II: The Wrath of Khan,1982,7.7,95731
+Star Trek,2,tt0088170,Star Trek III: The Search for Spock,1984,6.6,62008
+Star Trek,3,tt0092007,Star Trek IV: The Voyage Home,1986,7.3,65109
+Star Trek,4,tt0098382,Star Trek V: The Final Frontier,1989,5.4,46363
+Star Trek,5,tt0102975,Star Trek VI: The Undiscovered Country,1991,7.2,58492
+Step Up,0,tt0462590,Step Up,2006,6.5,96080
+Step Up,1,tt1023481,Step Up 2: The Streets,2008,6.2,70767
+Step Up,2,tt1193631,Step Up 3D,2010,6.2,49424
+Step Up,3,tt1800741,Step Up Revolution,2012,6.5,47569
+Step Up,4,tt2626350,Step Up All In,2014,6.0,27247
