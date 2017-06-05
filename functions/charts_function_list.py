@@ -66,3 +66,36 @@ def multi_numeric_index(df):
     single_list_index = [item for sublist in numeric_index for item in sublist]
     df.set_index([df.index,single_list_index],inplace=True)
     return df
+
+class chart_maker(object):
+    def __init__(self,title,title_size,alpha):
+        self.title = title
+        self.title_size = title_size
+        self.alpha = alpha
+
+    def initial_fig_axis(self,figsize=(11,8)):
+        fig = plt.figure(figsize=figsize)
+        fig.suptitle(self.title,fontsize=self.title_size,alpha=self.alpha)
+        return fig
+
+    def axes_set_up(self,rows=1,columns=1,plot_num=1):
+        ax = fig.add_subplot(rows,columns,plot_num)
+        return ax
+
+    def y_axis_setup(self,min_,max_,interval=1):
+        ax.yaxis.set_major_locator(mpl.ticker.MultipleLocator(interval))
+        ax.set_ylim(min_,max_)
+        return ax
+
+    def x_axis_setup(self,min_,max_,interval=1):
+        ax.xaxis.set_major_locator(mpl.ticker.MultipleLocator(interval))
+        ax.set_xlim(min_,max_)
+        return ax
+
+    def citations(self,source,chart_tag,x=0,source_y=-.4,chart_tag_x=0,chart_tag_y=-.5,fontsize=14,alpha=.4):
+        ax.text(x,source_y,source,transform=ax.transAxes,fontsize=fontsize,alpha=alpha)
+        ax.text(x,chart_tag_y,chart_tag,transform=ax.transAxes,fontsize=fontsize,alpha=alpha)
+
+
+def chart_save(name,dpi=100,transparent=False):
+    plt.savefig(name,bbox_inches = 'tight', dpi = dpi, pad_inches = .25,transparent=transparent)
