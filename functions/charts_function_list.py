@@ -78,23 +78,30 @@ class chart_maker(object):
         fig.suptitle(self.title,fontsize=self.title_size,alpha=self.alpha)
         return fig
 
-    def axes_set_up(self,rows=1,columns=1,plot_num=1):
+    def axes_set_up(self,fig,rows=1,columns=1,plot_num=1):
         ax = fig.add_subplot(rows,columns,plot_num)
         return ax
 
-    def y_axis_setup(self,min_,max_,interval=1):
-        ax.yaxis.set_major_locator(mpl.ticker.MultipleLocator(interval))
-        ax.set_ylim(min_,max_)
-        return ax
+    def y_axis_setup(self,ax,min_,max_,interval=1):
+        yinterval = ax.yaxis.set_major_locator(mpl.ticker.MultipleLocator(interval))
+        ylim = ax.set_ylim(min_,max_)
+        return yinterval, ylim
 
-    def x_axis_setup(self,min_,max_,interval=1):
-        ax.xaxis.set_major_locator(mpl.ticker.MultipleLocator(interval))
-        ax.set_xlim(min_,max_)
-        return ax
 
-    def citations(self,source,chart_tag,x=0,source_y=-.4,chart_tag_x=0,chart_tag_y=-.5,fontsize=14,alpha=.4):
-        ax.text(x,source_y,source,transform=ax.transAxes,fontsize=fontsize,alpha=alpha)
-        ax.text(x,chart_tag_y,chart_tag,transform=ax.transAxes,fontsize=fontsize,alpha=alpha)
+    def x_axis_setup(self,ax,min_,max_,interval=1):
+        xinterval = ax.xaxis.set_major_locator(mpl.ticker.MultipleLocator(interval))
+        xlim = ax.set_xlim(min_,max_)
+        return xinterval,xlim
+
+
+    def citations(self,ax,source,chart_tag,x=0,source_y=-.4,chart_tag_x=0,chart_tag_y=-.5,fontsize=14,alpha=.4):
+        source = ax.text(x,source_y,source,transform=ax.transAxes,fontsize=fontsize,alpha=alpha)
+        chart_tag = ax.text(x,chart_tag_y,chart_tag,transform=ax.transAxes,fontsize=fontsize,alpha=alpha)
+        return source, chart_tag
+
+    def patch_adder(self,ax, xy=(0,0),width=1,height=1,facecolor='#f0f0f0',alpha=1):
+        patch = ax.add_patch(patches.Rectangle(xy, width=width,height=height,facecolor=facecolor,alpha=alpha,transform=ax.transAxes))
+        return patch
 
 
 def chart_save(name,dpi=100,transparent=False):
