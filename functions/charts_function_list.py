@@ -58,3 +58,51 @@ def line_chart(x,y,xlabel=None,ylabel=None,title=None,
     ax.text(0,chart_tag_y,chart_tag,transform=ax.transAxes,fontsize=14,alpha=.4)
 
     return fig, ax
+
+def multi_numeric_index(df):
+    numeric_index = []
+    for item in df.index.get_level_values(0).unique():
+        numeric_index.append(list([i for i,v in enumerate(df.loc[item].values)]))
+    single_list_index = [item for sublist in numeric_index for item in sublist]
+    df.set_index([df.index,single_list_index],inplace=True)
+    return df
+
+class chart_maker(object):
+    def __init__(self,title,title_size,alpha):
+        self.title = title
+        self.title_size = title_size
+        self.alpha = alpha
+
+    def initial_fig_axis(self,figsize=(11,8)):
+        fig = plt.figure(figsize=figsize)
+        fig.suptitle(self.title,fontsize=self.title_size,alpha=self.alpha)
+        return fig
+
+    def axes_set_up(self,fig,rows=1,columns=1,plot_num=1):
+        ax = fig.add_subplot(rows,columns,plot_num)
+        return ax
+
+    def y_axis_setup(self,ax,min_,max_,interval=1):
+        yinterval = ax.yaxis.set_major_locator(mpl.ticker.MultipleLocator(interval))
+        ylim = ax.set_ylim(min_,max_)
+        return yinterval, ylim
+
+
+    def x_axis_setup(self,ax,min_,max_,interval=1):
+        xinterval = ax.xaxis.set_major_locator(mpl.ticker.MultipleLocator(interval))
+        xlim = ax.set_xlim(min_,max_)
+        return xinterval,xlim
+
+
+    def citations(self,ax,source,chart_tag,x=0,source_y=-.4,chart_tag_x=0,chart_tag_y=-.5,fontsize=14,alpha=.4):
+        source = ax.text(x,source_y,source,transform=ax.transAxes,fontsize=fontsize,alpha=alpha)
+        chart_tag = ax.text(x,chart_tag_y,chart_tag,transform=ax.transAxes,fontsize=fontsize,alpha=alpha)
+        return source, chart_tag
+
+    def patch_adder(self,ax, xy=(0,0),width=1,height=1,facecolor='#f0f0f0',alpha=1):
+        patch = ax.add_patch(patches.Rectangle(xy, width=width,height=height,facecolor=facecolor,alpha=alpha,transform=ax.transAxes))
+        return patch
+
+
+def chart_save(name,dpi=100,transparent=False):
+    plt.savefig(name,bbox_inches = 'tight', dpi = dpi, pad_inches = .25,transparent=transparent)
