@@ -68,40 +68,151 @@ def multi_numeric_index(df):
     return df
 
 class chart_maker(object):
-    def __init__(self,title,title_size,alpha):
+
+    """
+    Class to assist with matplotlib charts
+    ------
+    Initialize object with:
+
+    title = title for plot
+    title_size = title_size for plot
+    alpha = transparency for plot
+    ------
+
+    """
+    def __init__(self,title='Title',title_size=16,alpha=.8):
         self.title = title
         self.title_size = title_size
         self.alpha = alpha
 
     def initial_fig_axis(self,figsize=(11,8)):
+        """
+        Sets up the matplotlib figure
+        set_equal to fig for use with subsequent functions
+        ------
+
+        figsize = size of the figure
+        ------
+        Returns figure
+
+        """
         fig = plt.figure(figsize=figsize)
         fig.suptitle(self.title,fontsize=self.title_size,alpha=self.alpha)
         return fig
 
     def axes_set_up(self,fig,rows=1,columns=1,plot_num=1):
+        """
+        Sets up the matplolibt axes
+        set_equal to ax for use with subsequent functions
+        ------
+
+        fig = Figure to use
+        rows = Vertical number of plots
+        columns = Horizontal number of plots
+        plot_num = Mumber of plot.
+        ------
+        Returns axes object
+
+        """
         ax = fig.add_subplot(rows,columns,plot_num)
         return ax
 
     def y_axis_setup(self,ax,min_,max_,interval=1):
+        """
+        easier y_axis_setup
+        ------
+        ax = set to ax to use
+        min_ = y-axis minimum
+        max_ = y-axis maximum
+        interval = interval for the axis
+        ------
+        Returns set y-axis
+
+        """
         yinterval = ax.yaxis.set_major_locator(mpl.ticker.MultipleLocator(interval))
         ylim = ax.set_ylim(min_,max_)
         return yinterval, ylim
 
 
     def x_axis_setup(self,ax,min_,max_,interval=1):
+        """
+        easier x_axis_setup
+        ------
+        ax = set to ax to use
+        min_ = x-axis minimum
+        max_ = x-axis maximum
+        interval = interval for the axis
+        ------
+        Returns set x-axis
+
+        """
         xinterval = ax.xaxis.set_major_locator(mpl.ticker.MultipleLocator(interval))
         xlim = ax.set_xlim(min_,max_)
         return xinterval,xlim
 
 
-    def citations(self,ax,source,chart_tag,x=0,source_y=-.4,chart_tag_x=0,chart_tag_y=-.5,fontsize=14,alpha=.4):
-        source = ax.text(x,source_y,source,transform=ax.transAxes,fontsize=fontsize,alpha=alpha)
-        chart_tag = ax.text(x,chart_tag_y,chart_tag,transform=ax.transAxes,fontsize=fontsize,alpha=alpha)
+    def citations(self,ax,source,chart_tag,x=0,source_y=-.4,chart_tag_y=-.5,fontsize=14,color='black',alpha=.4):
+        """
+        Text objets for source and creditation
+        ------
+        ax = set to ax to use
+        source = text indicating your source
+        chart_tag = text indicating your creditation
+        x = x-position of source and chart_tag
+        source_y = y position of source
+        chart_tag_y = y position of chart_tag
+        fontsize = fontsize for source and chart_tag
+        color = color of of source and chart_tag
+        alpha = transparency
+        ------
+        Returns source and creditation text
+
+        """
+        source = ax.text(x,source_y,source,transform=ax.transAxes,fontsize=fontsize,color=color,alpha=alpha)
+        chart_tag = ax.text(x,chart_tag_y,chart_tag,transform=ax.transAxes,fontsize=fontsize,color=color,alpha=alpha)
         return source, chart_tag
 
     def patch_adder(self,ax, xy=(0,0),width=1,height=1,facecolor='#f0f0f0',alpha=1):
+        """
+        Adds a rectangular patch to the chart
+        ------
+        ax = set to ax to use
+        xy = bottom left of rectangular
+        width = width proportion for patch to cover
+        height = height proportion for patch to cover
+        facecolor = color of patch
+        alpha = patch transparency
+        ------
+        Returns rectangular patch
+
+        """
         patch = ax.add_patch(patches.Rectangle(xy, width=width,height=height,facecolor=facecolor,alpha=alpha,transform=ax.transAxes))
         return patch
+
+    def tick_params_(self,ax,axis='both',which='major',fontsize=16,labelcolor='#969696'):
+        """
+        Set global tick parameters
+        ------
+        ax :
+            set to ax to use
+
+        axis : {‘x’, ‘y’, ‘both’}
+            Axis to set
+
+        which : {‘major’, ‘minor’, ‘both’}
+            Tick marks to set arguments to
+
+        fontsize:
+            Font size for axis ticks
+
+        labelcolor:
+            Color for ticks
+        ------
+        Returns set tick parameters
+
+        """
+        tick_overall_set = ax.tick_params(axis=axis, which=which, labelsize=fontsize,labelcolor='#969696')
+        return tick_overall_set
 
 
 def chart_save(name,dpi=100,transparent=False):
