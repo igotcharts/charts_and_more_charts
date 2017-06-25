@@ -1,0 +1,21 @@
+Movie,Franchise,Complex Rank,IMDB rating,IMDB rank,Rotten Tomato rating,RT Rank,Metacritic rating,Metacritic Rank
+Batman,WB Batman,3,7.6,5,72,9,69,8
+Batman & Robin,WB Batman,13,3.7,17,11,18,28,16
+Batman Begins,Dark Knight Trilogy,4,8.3,3,84,6,70,7
+Batman Forever,WB Batman,9,5.4,14,40,11,51,11
+Batman Returns,WB Batman,5,7,8,80,7,68,9
+Batman vs Superman,DC Extended Universe,12,6.7,10,28,12,44,12
+Catwoman,Other,18,3.3,19,9,19,27,17
+Green Lantern,Other,19,5.6,13,26,13,39,15
+Man of Steel,DC Extended Universe,10,7.1,7,55,10,55,10
+Steel,Other,17,2.8,20,12,16,,
+Suicide Squad,DC Extended Universe,14,6.2,11,25,15,40,14
+Supergirl,Other,15,4.3,16,7,20,,
+Superman,Superman,6,7.3,6,93,2,86,2
+Superman II,Superman,2,6.8,9,89,4,87,1
+Superman III,Superman,16,4.9,15,26,13,42,13
+Superman IV,Superman,20,3.6,18,12,16,22,18
+Superman Returns,Superman,11,6.1,12,76,8,72,6
+The Dark Knight,Dark Knight Trilogy,1,9,1,94,1,82,3
+The Dark Knight Rises,Dark Knight Trilogy,7,8.5,2,87,5,78,4
+Wonder Woman,DC Extended Universe,8,8.1,4,92,3,76,5
