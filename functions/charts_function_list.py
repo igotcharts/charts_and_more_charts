@@ -11,6 +11,8 @@ import matplotlib.patches as patches
 import matplotlib.colors as mcolor
 from matplotlib import cm
 import matplotlib.ticker as ticker
+import string
+import random
 
 def folder_setup():
     current_dir = os.getcwd()
@@ -217,3 +219,6 @@ class chart_maker(object):
 
 def chart_save(name,dpi=100,transparent=False):
     plt.savefig(name,bbox_inches = 'tight', dpi = dpi, pad_inches = .25,transparent=transparent)
+
+def random_alphabet(count):
+    return [random.choice(string.ascii_letters[0:26]) for item in range(count)]
