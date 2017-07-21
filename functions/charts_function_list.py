@@ -172,7 +172,7 @@ class chart_maker(object):
 
         """
         source = ax.text(x,source_y,source,transform=ax.transAxes,fontsize=fontsize,color=color,alpha=alpha)
-        chart_tag = ax.text(x,chart_tag_y,chart_tag=chart_tag,transform=ax.transAxes,fontsize=fontsize,color=color,alpha=alpha)
+        chart_tag = ax.text(x,chart_tag_y,chart_tag,transform=ax.transAxes,fontsize=fontsize,color=color,alpha=alpha)
         return source, chart_tag
 
     def patch_adder(self,ax, xy=(0,0),width=1,height=1,facecolor='#f0f0f0',alpha=1):
