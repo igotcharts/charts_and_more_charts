@@ -154,7 +154,7 @@ class chart_maker(object):
         return xinterval,xlim
 
 
-    def citations(self,ax,source,chart_tag,x=0,source_y=-.4,chart_tag_y=-.5,fontsize=14,color='black',alpha=.4):
+    def citations(self,ax,source,chart_tag='www.igotcharts.com, 2017 | Twitter: @igotcharts',x=0,source_y=-.4,chart_tag_y=-.5,fontsize=14,color='black',alpha=.4):
         """
         Text objets for source and creditation
         ------
@@ -172,7 +172,7 @@ class chart_maker(object):
 
         """
         source = ax.text(x,source_y,source,transform=ax.transAxes,fontsize=fontsize,color=color,alpha=alpha)
-        chart_tag = ax.text(x,chart_tag_y,chart_tag,transform=ax.transAxes,fontsize=fontsize,color=color,alpha=alpha)
+        chart_tag = ax.text(x,chart_tag_y,chart_tag=chart_tag,transform=ax.transAxes,fontsize=fontsize,color=color,alpha=alpha)
         return source, chart_tag
 
     def patch_adder(self,ax, xy=(0,0),width=1,height=1,facecolor='#f0f0f0',alpha=1):
@@ -217,7 +217,7 @@ class chart_maker(object):
         Returns set tick parameters
 
         """
-        tick_overall_set = ax.tick_params(axis=axis, which=which, labelsize=fontsize,labelcolor=labelcolor)
+        tick_overall_set = ax.tick_params(axis=axis, which=which, labelsize=fontsize,labelcolor=labelcolor,pad=pad)
         return tick_overall_set
 
 
