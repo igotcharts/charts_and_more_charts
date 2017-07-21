@@ -6,7 +6,8 @@ import matplotlib as mpl
 import matplotlib.dates as mdates
 from matplotlib.colors import LinearSegmentedColormap
 from matplotlib.lines import Line2D
-from matplotlib.font_manager import FontManager
+#from matplotlib.font_manager import FontManager
+import matplotlib.font_manager
 import matplotlib.patches as patches
 import matplotlib.colors as mcolor
 from matplotlib import cm
@@ -153,7 +154,7 @@ class chart_maker(object):
         return xinterval,xlim
 
 
-    def citations(self,ax,source,chart_tag,x=0,source_y=-.4,chart_tag_y=-.5,fontsize=14,color='black',alpha=.4):
+    def citations(self,ax,source,chart_tag='www.igotcharts.com, 2017 | Twitter: @igotcharts',x=0,source_y=-.4,chart_tag_y=-.5,fontsize=14,color='black',alpha=.4):
         """
         Text objets for source and creditation
         ------
@@ -171,7 +172,7 @@ class chart_maker(object):
 
         """
         source = ax.text(x,source_y,source,transform=ax.transAxes,fontsize=fontsize,color=color,alpha=alpha)
-        chart_tag = ax.text(x,chart_tag_y,chart_tag,transform=ax.transAxes,fontsize=fontsize,color=color,alpha=alpha)
+        chart_tag = ax.text(x,chart_tag_y,chart_tag=chart_tag,transform=ax.transAxes,fontsize=fontsize,color=color,alpha=alpha)
         return source, chart_tag
 
     def patch_adder(self,ax, xy=(0,0),width=1,height=1,facecolor='#f0f0f0',alpha=1):
@@ -191,7 +192,7 @@ class chart_maker(object):
         patch = ax.add_patch(patches.Rectangle(xy, width=width,height=height,facecolor=facecolor,alpha=alpha,transform=ax.transAxes))
         return patch
 
-    def tick_params_(self,ax,axis='both',which='major',fontsize=16,labelcolor='#969696'):
+    def tick_params_(self,ax,axis='both',which='major',fontsize=16,labelcolor='#969696',pad=0):
         """
         Set global tick parameters
         ------
@@ -209,11 +210,14 @@ class chart_maker(object):
 
         labelcolor:
             Color for ticks
+
+        pad:
+            Label pad
         ------
         Returns set tick parameters
 
         """
-        tick_overall_set = ax.tick_params(axis=axis, which=which, labelsize=fontsize,labelcolor='#969696')
+        tick_overall_set = ax.tick_params(axis=axis, which=which, labelsize=fontsize,labelcolor=labelcolor,pad=pad)
         return tick_overall_set
 
 
@@ -222,3 +226,6 @@ def chart_save(name,dpi=100,transparent=False):
 
 def random_alphabet(count):
     return [random.choice(string.ascii_letters[0:26]) for item in range(count)]
+
+def available_fonts():
+    return set([f.name for f in matplotlib.font_manager.fontManager.ttflist])
