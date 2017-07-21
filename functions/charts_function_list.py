@@ -192,7 +192,7 @@ class chart_maker(object):
         patch = ax.add_patch(patches.Rectangle(xy, width=width,height=height,facecolor=facecolor,alpha=alpha,transform=ax.transAxes))
         return patch
 
-    def tick_params_(self,ax,axis='both',which='major',fontsize=16,labelcolor='#969696'):
+    def tick_params_(self,ax,axis='both',which='major',fontsize=16,labelcolor='#969696',pad=0):
         """
         Set global tick parameters
         ------
@@ -210,6 +210,9 @@ class chart_maker(object):
 
         labelcolor:
             Color for ticks
+
+        pad:
+            Label pad
         ------
         Returns set tick parameters
 
