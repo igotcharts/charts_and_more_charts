@@ -6,7 +6,8 @@ import matplotlib as mpl
 import matplotlib.dates as mdates
 from matplotlib.colors import LinearSegmentedColormap
 from matplotlib.lines import Line2D
-from matplotlib.font_manager import FontManager
+#from matplotlib.font_manager import FontManager
+import matplotlib.font_manager
 import matplotlib.patches as patches
 import matplotlib.colors as mcolor
 from matplotlib import cm
@@ -213,7 +214,7 @@ class chart_maker(object):
         Returns set tick parameters
 
         """
-        tick_overall_set = ax.tick_params(axis=axis, which=which, labelsize=fontsize,labelcolor='#969696')
+        tick_overall_set = ax.tick_params(axis=axis, which=which, labelsize=fontsize,labelcolor=labelcolor)
         return tick_overall_set
 
 
@@ -222,3 +223,6 @@ def chart_save(name,dpi=100,transparent=False):
 
 def random_alphabet(count):
     return [random.choice(string.ascii_letters[0:26]) for item in range(count)]
+
+def available_fonts():
+    return set([f.name for f in matplotlib.font_manager.fontManager.ttflist])
