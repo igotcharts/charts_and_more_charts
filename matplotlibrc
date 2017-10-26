@@ -141,7 +141,7 @@ lines.color       : #2ca25f    # has no affect on plot(); see axes.prop_cycle
 # The font.size property is the default font size for text, given in pts.
 # 12pt is the standard value.
 #
-font.family          : Franklin Gothic Book
+font.family          : Futura Bk BT
 #font.style          : normal
 #font.variant        : normal
 #font.weight         : medium
