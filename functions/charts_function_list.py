@@ -175,7 +175,7 @@ class chart_maker(object):
         chart_tag = ax.text(x,chart_tag_y,chart_tag,transform=ax.transAxes,fontsize=fontsize,color=color,alpha=alpha)
         return source, chart_tag
 
-    def patch_adder(self,ax, xy=(0,0),width=1,height=1,facecolor='#f0f0f0',alpha=1):
+    def patch_adder(self,ax, xy=(0,0),width=1,height=1,facecolor='#f0f0f0',alpha=1,zorder=1):
         """
         Adds a rectangular patch to the chart
         ------
@@ -189,7 +189,7 @@ class chart_maker(object):
         Returns rectangular patch
 
         """
-        patch = ax.add_patch(patches.Rectangle(xy, width=width,height=height,facecolor=facecolor,alpha=alpha,transform=ax.transAxes))
+        patch = ax.add_patch(patches.Rectangle(xy, width=width,height=height,facecolor=facecolor,alpha=alpha,transform=ax.transAxes,zorder=zorder))
         return patch
 
     def tick_params_(self,ax,axis='both',which='major',fontsize=16,labelcolor='#969696',pad=0):
@@ -221,8 +221,8 @@ class chart_maker(object):
         return tick_overall_set
 
 
-def chart_save(name,dpi=100,transparent=False):
-    plt.savefig(name,bbox_inches = 'tight', dpi = dpi, pad_inches = .25,transparent=transparent)
+def chart_save(name,dpi=100,transparent=False,pad=.25):
+    plt.savefig(name,bbox_inches = 'tight', dpi = dpi, pad_inches = pad,transparent=transparent)
 
 def random_alphabet(count):
     return [random.choice(string.ascii_letters[0:26]) for item in range(count)]
