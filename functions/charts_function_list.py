@@ -189,7 +189,7 @@ class chart_maker(object):
         Returns rectangular patch
 
         """
-        patch = ax.add_patch(patches.Rectangle(xy, width=width,height=height,facecolor=facecolor,alpha=alpha,transform=ax.transAxes,zorder=zorder))
+        patch = ax.add_patch(patches.Rectangle(xy, width=width,height=height,facecolor=facecolor,alpha=alpha,transform=ax.transAxes,zorder=zorder,clip_on=False))
         return patch
 
     def tick_params_(self,ax,axis='both',which='major',fontsize=16,labelcolor='#969696',pad=0):
