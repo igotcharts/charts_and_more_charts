@@ -105,7 +105,7 @@ class chart_maker(object):
 
     def axes_set_up(self,fig,rows=1,columns=1,plot_num=1):
         """
-        Sets up the matplolibt axes
+        Sets up the matplolib axes
         set_equal to ax for use with subsequent functions
         ------
 
@@ -154,7 +154,7 @@ class chart_maker(object):
         return xinterval,xlim
 
 
-    def citations(self,ax,source,chart_tag='www.igotcharts.com, 2017 | Twitter: @igotcharts',x=0,source_y=-.4,chart_tag_y=-.5,fontsize=14,color='black',alpha=.4):
+    def citations(self,ax,source,chart_tag='www.igotcharts.com, 2018 | Twitter: @igotcharts',x=0,source_y=-.4,chart_tag_y=-.5,fontsize=14,color='black',alpha=.4):
         """
         Text objets for source and creditation
         ------
