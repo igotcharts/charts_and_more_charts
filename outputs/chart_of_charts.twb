@@ -365,6 +365,13 @@
             <format attr='color' value='#b4b4b4' />
             <format attr='text-align' value='center' />
           </style-rule>
+          <style-rule element='legend-title-text'>
+            <format attr='color' field='[federated.1lczbym05yc7xa11fl3rz0jchj3z].[sum:Number of Records:qk]' value='Number of charts'>
+              <formatted-text>
+                <run>Number of charts</run>
+              </formatted-text>
+            </format>
+          </style-rule>
           <style-rule element='annotation'>
             <format attr='fill-color' id='annotation_0' value='#00000000' />
             <format attr='line-visibility' id='annotation_0' value='off' />
