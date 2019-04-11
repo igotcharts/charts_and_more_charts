@@ -1,0 +1,1321 @@
+,State Code of Geography A,FIPS County Code of Geography A,State/U.S. Island Area/Foreign Region Code of Geography B,FIPS County Code of Geography B,State Name of Geography A,County Name of Geography A,State/U.S. Island Area/Foreign Region of Geography B,County Name of Geography B,Flow from Geography B to Geography A:Estimate,Counterflow from Geography A to Geography B1:Estimate,Net Migration from Geography B to Geography A1:Estimate,Gross Migration between Geography A and Geography B1:Estimate,Geography B - Domestic or International
+4545,006,037,036,047,California,Los Angeles County,New York,Kings County,3441,980,2461,4421,Domestic
+4312,006,037,025,025,California,Los Angeles County,Massachusetts,Suffolk County,1919,879,1040,2798,Domestic
+4108,006,037,017,031,California,Los Angeles County,Illinois,Cook County,3263,2241,1022,5504,Domestic
+4007,006,037,012,086,California,Los Angeles County,Florida,Miami-Dade County,1529,675,854,2204,Domestic
+4571,006,037,036,119,California,Los Angeles County,New York,Westchester County,912,319,593,1231,Domestic
+4549,006,037,036,061,California,Los Angeles County,New York,New York County,3425,2859,566,6284,Domestic
+3830,006,037,002,020,California,Los Angeles County,Alaska,Anchorage Municipality,701,138,563,839,Domestic
+4513,006,037,034,039,California,Los Angeles County,New Jersey,Union County,568,39,529,607,Domestic
+4074,006,037,015,003,California,Los Angeles County,Hawaii,Honolulu County,1883,1411,472,3294,Domestic
+3895,006,037,006,031,California,Los Angeles County,California,Kings County,1071,645,426,1716,Domestic
+4502,006,037,034,017,California,Los Angeles County,New Jersey,Hudson County,521,148,373,669,Domestic
+4557,006,037,036,081,California,Los Angeles County,New York,Queens County,954,581,373,1535,Domestic
+4643,006,037,039,049,California,Los Angeles County,Ohio,Franklin County,695,373,322,1068,Domestic
+4500,006,037,034,013,California,Los Angeles County,New Jersey,Essex County,461,146,315,607,Domestic
+4289,006,037,024,005,California,Los Angeles County,Maryland,Baltimore County,364,66,298,430,Domestic
+4164,006,037,018,141,California,Los Angeles County,Indiana,St. Joseph County,372,76,296,448,Domestic
+4764,006,037,042,101,California,Los Angeles County,Pennsylvania,Philadelphia County,911,620,291,1531,Domestic
+4288,006,037,024,003,California,Los Angeles County,Maryland,Anne Arundel County,361,73,288,434,Domestic
+3971,006,037,009,001,California,Los Angeles County,Connecticut,Fairfield County,508,237,271,745,Domestic
+4042,006,037,013,089,California,Los Angeles County,Georgia,DeKalb County,573,318,255,891,Domestic
+4374,006,037,027,123,California,Los Angeles County,Minnesota,Ramsey County,375,129,246,504,Domestic
+4049,006,037,013,121,California,Los Angeles County,Georgia,Fulton County,757,514,243,1271,Domestic
+4296,006,037,024,031,California,Los Angeles County,Maryland,Montgomery County,516,293,223,809,Domestic
+4348,006,037,026,161,California,Los Angeles County,Michigan,Washtenaw County,621,410,211,1031,Domestic
+3975,006,037,009,009,California,Los Angeles County,Connecticut,New Haven County,413,211,202,624,Domestic
+4515,006,037,035,001,California,Los Angeles County,New Mexico,Bernalillo County,571,370,201,941,Domestic
+4496,006,037,034,003,California,Los Angeles County,New Jersey,Bergen County,406,213,193,619,Domestic
+4719,006,037,041,037,California,Los Angeles County,Oregon,Lake County,189,0,189,189,Domestic
+5121,006,037,072,127,California,Los Angeles County,Puerto Rico,San Juan Municipio,177,0,177,177,Domestic
+4111,006,037,017,043,California,Los Angeles County,Illinois,DuPage County,362,188,174,550,Domestic
+4339,006,037,026,125,California,Los Angeles County,Michigan,Oakland County,311,146,165,457,Domestic
+4869,006,037,048,141,California,Los Angeles County,Texas,El Paso County,556,400,156,956,Domestic
+4871,006,037,048,157,California,Los Angeles County,Texas,Fort Bend County,318,165,153,483,Domestic
+4331,006,037,026,081,California,Los Angeles County,Michigan,Kent County,252,105,147,357,Domestic
+5035,006,037,053,047,California,Los Angeles County,Washington,Okanogan County,144,0,144,144,Domestic
+4598,006,037,037,119,California,Los Angeles County,North Carolina,Mecklenburg County,454,310,144,764,Domestic
+4426,006,037,029,095,California,Los Angeles County,Missouri,Jackson County,261,119,142,380,Domestic
+4838,006,037,047,157,California,Los Angeles County,Tennessee,Shelby County,359,217,142,576,Domestic
+4205,006,037,020,009,California,Los Angeles County,Kansas,Barton County,149,11,138,160,Domestic
+4859,006,037,048,061,California,Los Angeles County,Texas,Cameron County,154,17,137,171,Domestic
+5059,006,037,055,009,California,Los Angeles County,Wisconsin,Brown County,141,10,131,151,Domestic
+4150,006,037,018,057,California,Los Angeles County,Indiana,Hamilton County,150,21,129,171,Domestic
+4507,006,037,034,027,California,Los Angeles County,New Jersey,Morris County,169,40,129,209,Domestic
+4055,006,037,013,151,California,Los Angeles County,Georgia,Henry County,153,25,128,178,Domestic
+4362,006,037,027,045,California,Los Angeles County,Minnesota,Fillmore County,125,0,125,125,Domestic
+4301,006,037,024,510,California,Los Angeles County,Maryland,Baltimore city,426,302,124,728,Domestic
+3998,006,037,012,057,California,Los Angeles County,Florida,Hillsborough County,400,277,123,677,Domestic
+4976,006,037,051,059,California,Los Angeles County,Virginia,Fairfax County,671,551,120,1222,Domestic
+4104,006,037,017,001,California,Los Angeles County,Illinois,Adams County,115,0,115,115,Domestic
+4153,006,037,018,073,California,Los Angeles County,Indiana,Jasper County,108,0,108,108,Domestic
+4679,006,037,040,027,California,Los Angeles County,Oklahoma,Cleveland County,129,23,106,152,Domestic
+3876,006,037,005,119,California,Los Angeles County,Arkansas,Pulaski County,194,90,104,284,Domestic
+4265,006,037,022,071,California,Los Angeles County,Louisiana,Orleans Parish,388,285,103,673,Domestic
+3892,006,037,006,025,California,Los Angeles County,California,Imperial County,604,502,102,1106,Domestic
+4011,006,037,012,095,California,Los Angeles County,Florida,Orange County,497,395,102,892,Domestic
+4236,006,037,021,067,California,Los Angeles County,Kentucky,Fayette County,159,58,101,217,Domestic
+3976,006,037,009,011,California,Los Angeles County,Connecticut,New London County,273,173,100,446,Domestic
+4667,006,037,039,143,California,Los Angeles County,Ohio,Sandusky County,100,0,100,100,Domestic
+3945,006,037,008,035,California,Los Angeles County,Colorado,Douglas County,315,217,98,532,Domestic
+4559,006,037,036,085,California,Los Angeles County,New York,Richmond County,104,6,98,110,Domestic
+4826,006,037,047,093,California,Los Angeles County,Tennessee,Knox County,119,22,97,141,Domestic
+4669,006,037,039,153,California,Los Angeles County,Ohio,Summit County,154,58,96,212,Domestic
+4639,006,037,039,035,California,Los Angeles County,Ohio,Cuyahoga County,352,256,96,608,Domestic
+5112,006,037,072,031,California,Los Angeles County,Puerto Rico,Carolina Municipio,96,0,96,96,Domestic
+4240,006,037,021,111,California,Los Angeles County,Kentucky,Jefferson County,201,107,94,308,Domestic
+5000,006,037,051,600,California,Los Angeles County,Virginia,Fairfax city,90,0,90,90,Domestic
+4023,006,037,012,127,California,Los Angeles County,Florida,Volusia County,250,161,89,411,Domestic
+3983,006,037,012,001,California,Los Angeles County,Florida,Alachua County,164,76,88,240,Domestic
+4686,006,037,040,071,California,Los Angeles County,Oklahoma,Kay County,87,0,87,87,Domestic
+4661,006,037,039,113,California,Los Angeles County,Ohio,Montgomery County,171,84,87,255,Domestic
+3822,006,037,001,097,California,Los Angeles County,Alabama,Mobile County,92,7,85,99,Domestic
+3980,006,037,010,003,California,Los Angeles County,Delaware,New Castle County,110,25,85,135,Domestic
+4231,006,037,021,001,California,Los Angeles County,Kentucky,Adair County,85,0,85,85,Domestic
+4168,006,037,018,163,California,Los Angeles County,Indiana,Vanderburgh County,82,0,82,82,Domestic
+4968,006,037,051,001,California,Los Angeles County,Virginia,Accomack County,80,0,80,80,Domestic
+4245,006,037,021,185,California,Los Angeles County,Kentucky,Oldham County,80,0,80,80,Domestic
+4423,006,037,029,077,California,Los Angeles County,Missouri,Greene County,174,94,80,268,Domestic
+4128,006,037,017,119,California,Los Angeles County,Illinois,Madison County,79,0,79,79,Domestic
+4737,006,037,042,017,California,Los Angeles County,Pennsylvania,Bucks County,108,29,79,137,Domestic
+4741,006,037,042,029,California,Los Angeles County,Pennsylvania,Chester County,195,117,78,312,Domestic
+4034,006,037,013,057,California,Los Angeles County,Georgia,Cherokee County,78,0,78,78,Domestic
+3991,006,037,012,021,California,Los Angeles County,Florida,Collier County,154,77,77,231,Domestic
+4874,006,037,048,167,California,Los Angeles County,Texas,Galveston County,76,0,76,76,Domestic
+4886,006,037,048,215,California,Los Angeles County,Texas,Hidalgo County,116,40,76,156,Domestic
+4987,006,037,051,153,California,Los Angeles County,Virginia,Prince William County,111,36,75,147,Domestic
+4533,006,037,036,005,California,Los Angeles County,New York,Bronx County,292,218,74,510,Domestic
+4304,006,037,025,005,California,Los Angeles County,Massachusetts,Bristol County,114,41,73,155,Domestic
+4212,006,037,020,045,California,Los Angeles County,Kansas,Douglas County,134,62,72,196,Domestic
+3947,006,037,008,041,California,Los Angeles County,Colorado,El Paso County,469,398,71,867,Domestic
+4106,006,037,017,019,California,Los Angeles County,Illinois,Champaign County,149,79,70,228,Domestic
+4841,006,037,047,165,California,Los Angeles County,Tennessee,Sumner County,88,19,69,107,Domestic
+4665,006,037,039,133,California,Los Angeles County,Ohio,Portage County,74,5,69,79,Domestic
+4565,006,037,036,103,California,Los Angeles County,New York,Suffolk County,186,118,68,304,Domestic
+4081,006,037,016,013,California,Los Angeles County,Idaho,Blaine County,68,0,68,68,Domestic
+4398,006,037,028,075,California,Los Angeles County,Mississippi,Lauderdale County,115,47,68,162,Domestic
+4261,006,037,022,055,California,Los Angeles County,Louisiana,Lafayette Parish,132,65,67,197,Domestic
+4955,006,037,049,057,California,Los Angeles County,Utah,Weber County,146,81,65,227,Domestic
+4446,006,037,029,510,California,Los Angeles County,Missouri,St. Louis city,189,124,65,313,Domestic
+4498,006,037,034,007,California,Los Angeles County,New Jersey,Camden County,99,34,65,133,Domestic
+4573,006,037,037,001,California,Los Angeles County,North Carolina,Alamance County,69,5,64,74,Domestic
+3958,006,037,008,077,California,Los Angeles County,Colorado,Mesa County,80,16,64,96,Domestic
+5032,006,037,053,037,California,Los Angeles County,Washington,Kittitas County,72,9,63,81,Domestic
+4560,006,037,036,087,California,Los Angeles County,New York,Rockland County,106,43,63,149,Domestic
+5092,006,037,055,133,California,Los Angeles County,Wisconsin,Waukesha County,63,0,63,63,Domestic
+4118,006,037,017,091,California,Los Angeles County,Illinois,Kankakee County,81,19,62,100,Domestic
+4359,006,037,027,039,California,Los Angeles County,Minnesota,Dodge County,61,0,61,61,Domestic
+4540,006,037,036,029,California,Los Angeles County,New York,Erie County,145,84,61,229,Domestic
+4896,006,037,048,251,California,Los Angeles County,Texas,Johnson County,61,0,61,61,Domestic
+5069,006,037,055,059,California,Los Angeles County,Wisconsin,Kenosha County,79,19,60,98,Domestic
+3879,006,037,005,131,California,Los Angeles County,Arkansas,Sebastian County,81,21,60,102,Domestic
+4511,006,037,034,035,California,Los Angeles County,New Jersey,Somerset County,101,41,60,142,Domestic
+4898,006,037,048,257,California,Los Angeles County,Texas,Kaufman County,59,0,59,59,Domestic
+5096,006,037,055,141,California,Los Angeles County,Wisconsin,Wood County,59,0,59,59,Domestic
+4147,006,037,018,039,California,Los Angeles County,Indiana,Elkhart County,58,0,58,58,Domestic
+4352,006,037,027,007,California,Los Angeles County,Minnesota,Beltrami County,58,0,58,58,Domestic
+3986,006,037,012,009,California,Los Angeles County,Florida,Brevard County,149,92,57,241,Domestic
+4835,006,037,047,147,California,Los Angeles County,Tennessee,Robertson County,57,0,57,57,Domestic
+4529,006,037,035,049,California,Los Angeles County,New Mexico,Santa Fe County,216,159,57,375,Domestic
+4503,006,037,034,019,California,Los Angeles County,New Jersey,Hunterdon County,56,0,56,56,Domestic
+5061,006,037,055,025,California,Los Angeles County,Wisconsin,Dane County,254,198,56,452,Domestic
+4995,006,037,051,510,California,Los Angeles County,Virginia,Alexandria city,116,60,56,176,Domestic
+4311,006,037,025,023,California,Los Angeles County,Massachusetts,Plymouth County,102,47,55,149,Domestic
+4776,006,037,044,003,California,Los Angeles County,Rhode Island,Kent County,103,48,55,151,Domestic
+3990,006,037,012,019,California,Los Angeles County,Florida,Clay County,54,0,54,54,Domestic
+3836,006,037,002,150,California,Los Angeles County,Alaska,Kodiak Island Borough,66,13,53,79,Domestic
+4740,006,037,042,027,California,Los Angeles County,Pennsylvania,Centre County,222,169,53,391,Domestic
+4505,006,037,034,023,California,Los Angeles County,New Jersey,Middlesex County,107,54,53,161,Domestic
+4223,006,037,020,161,California,Los Angeles County,Kansas,Riley County,84,32,52,116,Domestic
+4417,006,037,029,029,California,Los Angeles County,Missouri,Camden County,52,0,52,52,Domestic
+4089,006,037,016,033,California,Los Angeles County,Idaho,Clark County,52,0,52,52,Domestic
+4177,006,037,019,047,California,Los Angeles County,Iowa,Crawford County,51,0,51,51,Domestic
+4187,006,037,019,103,California,Los Angeles County,Iowa,Johnson County,74,23,51,97,Domestic
+4561,006,037,036,089,California,Los Angeles County,New York,St. Lawrence County,53,2,51,55,Domestic
+4003,006,037,012,073,California,Los Angeles County,Florida,Leon County,107,56,51,163,Domestic
+4707,006,037,041,005,California,Los Angeles County,Oregon,Clackamas County,233,183,50,416,Domestic
+4600,006,037,037,129,California,Los Angeles County,North Carolina,New Hanover County,118,68,50,186,Domestic
+4519,006,037,035,015,California,Los Angeles County,New Mexico,Eddy County,57,7,50,64,Domestic
+4453,006,037,030,031,California,Los Angeles County,Montana,Gallatin County,71,21,50,92,Domestic
+3850,006,037,004,019,California,Los Angeles County,Arizona,Pima County,1272,1222,50,2494,Domestic
+4390,006,037,028,033,California,Los Angeles County,Mississippi,DeSoto County,50,0,50,50,Domestic
+5075,006,037,055,083,California,Los Angeles County,Wisconsin,Oconto County,48,0,48,48,Domestic
+4338,006,037,026,121,California,Los Angeles County,Michigan,Muskegon County,75,28,47,103,Domestic
+4508,006,037,034,029,California,Los Angeles County,New Jersey,Ocean County,47,0,47,47,Domestic
+4443,006,037,029,219,California,Los Angeles County,Missouri,Warren County,47,0,47,47,Domestic
+4186,006,037,019,101,California,Los Angeles County,Iowa,Jefferson County,51,4,47,55,Domestic
+3909,006,037,006,061,California,Los Angeles County,California,Placer County,634,588,46,1222,Domestic
+4543,006,037,036,043,California,Los Angeles County,New York,Herkimer County,46,0,46,46,Domestic
+3994,006,037,012,035,California,Los Angeles County,Florida,Flagler County,46,0,46,46,Domestic
+4775,006,037,044,001,California,Los Angeles County,Rhode Island,Bristol County,45,0,45,45,Domestic
+4563,006,037,036,093,California,Los Angeles County,New York,Schenectady County,45,0,45,45,Domestic
+4320,006,037,026,037,California,Los Angeles County,Michigan,Clinton County,44,0,44,44,Domestic
+4648,006,037,039,063,California,Los Angeles County,Ohio,Hancock County,49,5,44,54,Domestic
+4070,006,037,013,293,California,Los Angeles County,Georgia,Upson County,44,0,44,44,Domestic
+4601,006,037,037,133,California,Los Angeles County,North Carolina,Onslow County,119,76,43,195,Domestic
+4984,006,037,051,121,California,Los Angeles County,Virginia,Montgomery County,44,1,43,45,Domestic
+5098,006,037,056,003,California,Los Angeles County,Wyoming,Big Horn County,63,20,43,83,Domestic
+5099,006,037,056,005,California,Los Angeles County,Wyoming,Campbell County,43,1,42,44,Domestic
+4575,006,037,037,019,California,Los Angeles County,North Carolina,Brunswick County,49,7,42,56,Domestic
+3831,006,037,002,068,California,Los Angeles County,Alaska,Denali Borough,42,0,42,42,Domestic
+4140,006,037,018,003,California,Los Angeles County,Indiana,Allen County,53,11,42,64,Domestic
+4670,006,037,039,155,California,Los Angeles County,Ohio,Trumbull County,53,11,42,64,Domestic
+3825,006,037,001,107,California,Los Angeles County,Alabama,Pickens County,42,0,42,42,Domestic
+4809,006,037,046,099,California,Los Angeles County,South Dakota,Minnehaha County,69,27,42,96,Domestic
+4239,006,037,021,103,California,Los Angeles County,Kentucky,Henry County,42,0,42,42,Domestic
+4157,006,037,018,099,California,Los Angeles County,Indiana,Marshall County,42,0,42,42,Domestic
+4824,006,037,047,065,California,Los Angeles County,Tennessee,Hamilton County,54,13,41,67,Domestic
+4248,006,037,021,231,California,Los Angeles County,Kentucky,Wayne County,41,0,41,41,Domestic
+4779,006,037,044,009,California,Los Angeles County,Rhode Island,Washington County,41,0,41,41,Domestic
+4739,006,037,042,021,California,Los Angeles County,Pennsylvania,Cambria County,52,12,40,64,Domestic
+4125,006,037,017,111,California,Los Angeles County,Illinois,McHenry County,61,21,40,82,Domestic
+5116,006,037,072,063,California,Los Angeles County,Puerto Rico,Gurabo Municipio,40,0,40,40,Domestic
+4121,006,037,017,097,California,Los Angeles County,Illinois,Lake County,300,260,40,560,Domestic
+4149,006,037,018,053,California,Los Angeles County,Indiana,Grant County,39,0,39,39,Domestic
+3818,006,037,001,081,California,Los Angeles County,Alabama,Lee County,59,20,39,79,Domestic
+4969,006,037,051,003,California,Los Angeles County,Virginia,Albemarle County,96,57,39,153,Domestic
+4783,006,037,045,019,California,Los Angeles County,South Carolina,Charleston County,127,88,39,215,Domestic
+3915,006,037,006,073,California,Los Angeles County,California,San Diego County,9708,9670,38,19378,Domestic
+4791,006,037,045,051,California,Los Angeles County,South Carolina,Horry County,45,7,38,52,Domestic
+4232,006,037,021,015,California,Los Angeles County,Kentucky,Boone County,38,0,38,38,Domestic
+4027,006,037,013,013,California,Los Angeles County,Georgia,Barrow County,38,0,38,38,Domestic
+4267,006,037,022,075,California,Los Angeles County,Louisiana,Plaquemines Parish,38,0,38,38,Domestic
+4148,006,037,018,043,California,Los Angeles County,Indiana,Floyd County,37,0,37,37,Domestic
+3924,006,037,006,091,California,Los Angeles County,California,Sierra County,37,0,37,37,Domestic
+5050,006,037,054,025,California,Los Angeles County,West Virginia,Greenbrier County,37,0,37,37,Domestic
+4649,006,037,039,069,California,Los Angeles County,Ohio,Henry County,42,6,36,48,Domestic
+4028,006,037,013,015,California,Los Angeles County,Georgia,Bartow County,36,0,36,36,Domestic
+4655,006,037,039,095,California,Los Angeles County,Ohio,Lucas County,41,5,36,46,Domestic
+4358,006,037,027,037,California,Los Angeles County,Minnesota,Dakota County,48,12,36,60,Domestic
+4441,006,037,029,189,California,Los Angeles County,Missouri,St. Louis County,384,349,35,733,Domestic
+4900,006,037,048,293,California,Los Angeles County,Texas,Limestone County,35,0,35,35,Domestic
+4972,006,037,051,015,California,Los Angeles County,Virginia,Augusta County,35,0,35,35,Domestic
+4418,006,037,029,037,California,Los Angeles County,Missouri,Cass County,35,0,35,35,Domestic
+4255,006,037,022,033,California,Los Angeles County,Louisiana,East Baton Rouge Parish,206,172,34,378,Domestic
+5109,006,037,072,013,California,Los Angeles County,Puerto Rico,Arecibo Municipio,34,0,34,34,Domestic
+4392,006,037,028,045,California,Los Angeles County,Mississippi,Hancock County,34,0,34,34,Domestic
+5013,006,037,051,770,California,Los Angeles County,Virginia,Roanoke city,60,26,34,86,Domestic
+4851,006,037,048,039,California,Los Angeles County,Texas,Brazoria County,38,4,34,42,Domestic
+4008,006,037,012,087,California,Los Angeles County,Florida,Monroe County,37,3,34,40,Domestic
+4647,006,037,039,061,California,Los Angeles County,Ohio,Hamilton County,153,120,33,273,Domestic
+4246,006,037,021,211,California,Los Angeles County,Kentucky,Shelby County,33,0,33,33,Domestic
+3837,006,037,002,170,California,Los Angeles County,Alaska,Matanuska-Susitna Borough,32,0,32,32,Domestic
+4306,006,037,025,009,California,Los Angeles County,Massachusetts,Essex County,199,167,32,366,Domestic
+4709,006,037,041,011,California,Los Angeles County,Oregon,Coos County,34,2,32,36,Domestic
+3929,006,037,006,101,California,Los Angeles County,California,Sutter County,56,24,32,80,Domestic
+4524,006,037,035,029,California,Los Angeles County,New Mexico,Luna County,32,0,32,32,Domestic
+5007,006,037,051,690,California,Los Angeles County,Virginia,Martinsville city,31,0,31,31,Domestic
+4035,006,037,013,059,California,Los Angeles County,Georgia,Clarke County,31,0,31,31,Domestic
+4988,006,037,051,173,California,Los Angeles County,Virginia,Smyth County,31,0,31,31,Domestic
+4909,006,037,048,337,California,Los Angeles County,Texas,Montague County,30,0,30,30,Domestic
+4736,006,037,042,015,California,Los Angeles County,Pennsylvania,Bradford County,30,0,30,30,Domestic
+4992,006,037,051,195,California,Los Angeles County,Virginia,Wise County,30,0,30,30,Domestic
+4412,006,037,029,003,California,Los Angeles County,Missouri,Andrew County,30,0,30,30,Domestic
+4467,006,037,031,111,California,Los Angeles County,Nebraska,Lincoln County,38,8,30,46,Domestic
+4531,006,037,036,001,California,Los Angeles County,New York,Albany County,95,65,30,160,Domestic
+5077,006,037,055,087,California,Los Angeles County,Wisconsin,Outagamie County,29,0,29,29,Domestic
+4611,006,037,037,167,California,Los Angeles County,North Carolina,Stanly County,29,0,29,29,Domestic
+4749,006,037,042,055,California,Los Angeles County,Pennsylvania,Franklin County,29,0,29,29,Domestic
+4517,006,037,035,009,California,Los Angeles County,New Mexico,Curry County,62,34,28,96,Domestic
+4949,006,037,049,043,California,Los Angeles County,Utah,Summit County,60,32,28,92,Domestic
+3938,006,037,008,003,California,Los Angeles County,Colorado,Alamosa County,28,0,28,28,Domestic
+4414,006,037,029,021,California,Los Angeles County,Missouri,Buchanan County,28,0,28,28,Domestic
+4380,006,037,027,145,California,Los Angeles County,Minnesota,Stearns County,28,0,28,28,Domestic
+4657,006,037,039,103,California,Los Angeles County,Ohio,Medina County,28,0,28,28,Domestic
+4012,006,037,012,099,California,Los Angeles County,Florida,Palm Beach County,597,569,28,1166,Domestic
+4010,006,037,012,091,California,Los Angeles County,Florida,Okaloosa County,81,53,28,134,Domestic
+4495,006,037,034,001,California,Los Angeles County,New Jersey,Atlantic County,28,0,28,28,Domestic
+4599,006,037,037,125,California,Los Angeles County,North Carolina,Moore County,27,0,27,27,Domestic
+3939,006,037,008,005,California,Los Angeles County,Colorado,Arapahoe County,425,399,26,824,Domestic
+4130,006,037,017,143,California,Los Angeles County,Illinois,Peoria County,43,17,26,60,Domestic
+4307,006,037,025,013,California,Los Angeles County,Massachusetts,Hampden County,36,10,26,46,Domestic
+4233,006,037,021,021,California,Los Angeles County,Kentucky,Boyle County,26,0,26,26,Domestic
+3841,006,037,002,261,California,Los Angeles County,Alaska,Valdez-Cordova Census Area,27,2,25,29,Domestic
+4917,006,037,048,375,California,Los Angeles County,Texas,Potter County,25,0,25,25,Domestic
+4134,006,037,017,175,California,Los Angeles County,Illinois,Stark County,25,0,25,25,Domestic
+4269,006,037,022,089,California,Los Angeles County,Louisiana,St. Charles Parish,25,0,25,25,Domestic
+4631,006,037,039,013,California,Los Angeles County,Ohio,Belmont County,25,0,25,25,Domestic
+4711,006,037,041,015,California,Los Angeles County,Oregon,Curry County,34,9,25,43,Domestic
+4839,006,037,047,161,California,Los Angeles County,Tennessee,Stewart County,25,0,25,25,Domestic
+5110,006,037,072,021,California,Los Angeles County,Puerto Rico,Bayamón Municipio,41,16,25,57,Domestic
+4756,006,037,042,077,California,Los Angeles County,Pennsylvania,Lehigh County,72,47,25,119,Domestic
+4155,006,037,018,091,California,Los Angeles County,Indiana,LaPorte County,25,0,25,25,Domestic
+3936,006,037,006,115,California,Los Angeles County,California,Yuba County,38,14,24,52,Domestic
+4290,006,037,024,013,California,Los Angeles County,Maryland,Carroll County,24,0,24,24,Domestic
+4266,006,037,022,073,California,Los Angeles County,Louisiana,Ouachita Parish,24,0,24,24,Domestic
+4378,006,037,027,141,California,Los Angeles County,Minnesota,Sherburne County,24,0,24,24,Domestic
+4029,006,037,013,021,California,Los Angeles County,Georgia,Bibb County,27,4,23,31,Domestic
+4833,006,037,047,141,California,Los Angeles County,Tennessee,Putnam County,41,18,23,59,Domestic
+4715,006,037,041,029,California,Los Angeles County,Oregon,Jackson County,245,222,23,467,Domestic
+4651,006,037,039,083,California,Los Angeles County,Ohio,Knox County,64,41,23,105,Domestic
+4192,006,037,019,137,California,Los Angeles County,Iowa,Montgomery County,23,0,23,23,Domestic
+4672,006,037,039,173,California,Los Angeles County,Ohio,Wood County,29,6,23,35,Domestic
+4291,006,037,024,017,California,Los Angeles County,Maryland,Charles County,23,0,23,23,Domestic
+4753,006,037,042,069,California,Los Angeles County,Pennsylvania,Lackawanna County,31,8,23,39,Domestic
+3952,006,037,008,059,California,Los Angeles County,Colorado,Jefferson County,310,287,23,597,Domestic
+4970,006,037,051,005,California,Los Angeles County,Virginia,Alleghany County,22,0,22,22,Domestic
+4514,006,037,034,041,California,Los Angeles County,New Jersey,Warren County,22,0,22,22,Domestic
+3943,006,037,008,029,California,Los Angeles County,Colorado,Delta County,22,0,22,22,Domestic
+5078,006,037,055,089,California,Los Angeles County,Wisconsin,Ozaukee County,22,0,22,22,Domestic
+4178,006,037,019,049,California,Los Angeles County,Iowa,Dallas County,66,44,22,110,Domestic
+4620,006,037,038,053,California,Los Angeles County,North Dakota,McKenzie County,22,0,22,22,Domestic
+3871,006,037,005,077,California,Los Angeles County,Arkansas,Lee County,21,0,21,21,Domestic
+4967,006,037,050,027,California,Los Angeles County,Vermont,Windsor County,49,28,21,77,Domestic
+4520,006,037,035,017,California,Los Angeles County,New Mexico,Grant County,27,6,21,33,Domestic
+4114,006,037,017,077,California,Los Angeles County,Illinois,Jackson County,41,20,21,61,Domestic
+4580,006,037,037,035,California,Los Angeles County,North Carolina,Catawba County,27,6,21,33,Domestic
+4555,006,037,036,077,California,Los Angeles County,New York,Otsego County,25,5,20,30,Domestic
+4684,006,037,040,051,California,Los Angeles County,Oklahoma,Grady County,24,4,20,28,Domestic
+5028,006,037,053,027,California,Los Angeles County,Washington,Grays Harbor County,20,0,20,20,Domestic
+4415,006,037,029,023,California,Los Angeles County,Missouri,Butler County,35,15,20,50,Domestic
+4986,006,037,051,149,California,Los Angeles County,Virginia,Prince George County,20,0,20,20,Domestic
+4135,006,037,017,179,California,Los Angeles County,Illinois,Tazewell County,20,0,20,20,Domestic
+3815,006,037,001,071,California,Los Angeles County,Alabama,Jackson County,20,0,20,20,Domestic
+4472,006,037,031,151,California,Los Angeles County,Nebraska,Saline County,20,0,20,20,Domestic
+4319,006,037,026,033,California,Los Angeles County,Michigan,Chippewa County,19,0,19,19,Domestic
+4888,006,037,048,221,California,Los Angeles County,Texas,Hood County,19,0,19,19,Domestic
+3984,006,037,012,005,California,Los Angeles County,Florida,Bay County,30,11,19,41,Domestic
+4550,006,037,036,063,California,Los Angeles County,New York,Niagara County,19,0,19,19,Domestic
+4439,006,037,029,177,California,Los Angeles County,Missouri,Ray County,19,0,19,19,Domestic
+3979,006,037,010,001,California,Los Angeles County,Delaware,Kent County,34,15,19,49,Domestic
+4228,006,037,020,195,California,Los Angeles County,Kansas,Trego County,18,0,18,18,Domestic
+4877,006,037,048,181,California,Los Angeles County,Texas,Grayson County,18,0,18,18,Domestic
+4501,006,037,034,015,California,Los Angeles County,New Jersey,Gloucester County,18,0,18,18,Domestic
+4607,006,037,037,151,California,Los Angeles County,North Carolina,Randolph County,17,0,17,17,Domestic
+4022,006,037,012,119,California,Los Angeles County,Florida,Sumter County,17,0,17,17,Domestic
+4532,006,037,036,003,California,Los Angeles County,New York,Allegany County,17,0,17,17,Domestic
+4210,006,037,020,037,California,Los Angeles County,Kansas,Crawford County,17,0,17,17,Domestic
+4342,006,037,026,139,California,Los Angeles County,Michigan,Ottawa County,59,42,17,101,Domestic
+4828,006,037,047,107,California,Los Angeles County,Tennessee,McMinn County,17,0,17,17,Domestic
+4064,006,037,013,237,California,Los Angeles County,Georgia,Putnam County,17,0,17,17,Domestic
+4681,006,037,040,039,California,Los Angeles County,Oklahoma,Custer County,17,0,17,17,Domestic
+4985,006,037,051,135,California,Los Angeles County,Virginia,Nottoway County,16,0,16,16,Domestic
+5106,006,037,056,029,California,Los Angeles County,Wyoming,Park County,26,10,16,36,Domestic
+4033,006,037,013,053,California,Los Angeles County,Georgia,Chattahoochee County,68,52,16,120,Domestic
+3960,006,037,008,087,California,Los Angeles County,Colorado,Morgan County,16,0,16,16,Domestic
+4145,006,037,018,033,California,Los Angeles County,Indiana,DeKalb County,16,0,16,16,Domestic
+4745,006,037,042,043,California,Los Angeles County,Pennsylvania,Dauphin County,32,16,16,48,Domestic
+4190,006,037,019,123,California,Los Angeles County,Iowa,Mahaska County,16,0,16,16,Domestic
+3840,006,037,002,195,California,Los Angeles County,Alaska,Petersburg Borough,20,4,16,24,Domestic
+5101,006,037,056,015,California,Los Angeles County,Wyoming,Goshen County,16,0,16,16,Domestic
+4136,006,037,017,183,California,Los Angeles County,Illinois,Vermilion County,16,0,16,16,Domestic
+4462,006,037,031,041,California,Los Angeles County,Nebraska,Custer County,16,0,16,16,Domestic
+4914,006,037,048,361,California,Los Angeles County,Texas,Orange County,16,0,16,16,Domestic
+3859,006,037,005,017,California,Los Angeles County,Arkansas,Chicot County,16,0,16,16,Domestic
+4689,006,037,040,099,California,Los Angeles County,Oklahoma,Murray County,16,0,16,16,Domestic
+4622,006,037,038,083,California,Los Angeles County,North Dakota,Sheridan County,21,5,16,26,Domestic
+4480,006,037,032,013,California,Los Angeles County,Nevada,Humboldt County,15,0,15,15,Domestic
+4592,006,037,037,081,California,Los Angeles County,North Carolina,Guilford County,84,69,15,153,Domestic
+4671,006,037,039,165,California,Los Angeles County,Ohio,Warren County,15,0,15,15,Domestic
+3860,006,037,005,023,California,Los Angeles County,Arkansas,Cleburne County,15,0,15,15,Domestic
+4997,006,037,051,540,California,Los Angeles County,Virginia,Charlottesville city,53,38,15,91,Domestic
+4663,006,037,039,125,California,Los Angeles County,Ohio,Paulding County,15,0,15,15,Domestic
+4626,006,037,038,097,California,Los Angeles County,North Dakota,Traill County,15,0,15,15,Domestic
+4552,006,037,036,067,California,Los Angeles County,New York,Onondaga County,210,195,15,405,Domestic
+4302,006,037,025,001,California,Los Angeles County,Massachusetts,Barnstable County,25,10,15,35,Domestic
+4617,006,037,038,015,California,Los Angeles County,North Dakota,Burleigh County,23,8,15,31,Domestic
+4217,006,037,020,103,California,Los Angeles County,Kansas,Leavenworth County,19,4,15,23,Domestic
+4774,006,037,042,133,California,Los Angeles County,Pennsylvania,York County,19,4,15,23,Domestic
+4056,006,037,013,153,California,Los Angeles County,Georgia,Houston County,19,4,15,23,Domestic
+4853,006,037,048,043,California,Los Angeles County,Texas,Brewster County,15,0,15,15,Domestic
+4194,006,037,019,153,California,Los Angeles County,Iowa,Polk County,106,91,15,197,Domestic
+4941,006,037,049,005,California,Los Angeles County,Utah,Cache County,137,123,14,260,Domestic
+3868,006,037,005,071,California,Los Angeles County,Arkansas,Johnson County,14,0,14,14,Domestic
+4367,006,037,027,085,California,Los Angeles County,Minnesota,McLeod County,14,0,14,14,Domestic
+5019,006,037,053,005,California,Los Angeles County,Washington,Benton County,43,29,14,72,Domestic
+4829,006,037,047,113,California,Los Angeles County,Tennessee,Madison County,16,2,14,18,Domestic
+3964,006,037,008,107,California,Los Angeles County,Colorado,Routt County,14,0,14,14,Domestic
+4085,006,037,016,021,California,Los Angeles County,Idaho,Boundary County,14,0,14,14,Domestic
+4693,006,037,040,113,California,Los Angeles County,Oklahoma,Osage County,14,0,14,14,Domestic
+4326,006,037,026,059,California,Los Angeles County,Michigan,Hillsdale County,25,11,14,36,Domestic
+4628,006,037,038,105,California,Los Angeles County,North Dakota,Williams County,13,0,13,13,Domestic
+4696,006,037,040,119,California,Los Angeles County,Oklahoma,Payne County,54,41,13,95,Domestic
+5084,006,037,055,109,California,Los Angeles County,Wisconsin,St. Croix County,13,0,13,13,Domestic
+4765,006,037,042,103,California,Los Angeles County,Pennsylvania,Pike County,13,0,13,13,Domestic
+4957,006,037,050,003,California,Los Angeles County,Vermont,Bennington County,36,23,13,59,Domestic
+4645,006,037,039,057,California,Los Angeles County,Ohio,Greene County,70,57,13,127,Domestic
+4588,006,037,037,057,California,Los Angeles County,North Carolina,Davidson County,13,0,13,13,Domestic
+4250,006,037,022,005,California,Los Angeles County,Louisiana,Ascension Parish,13,0,13,13,Domestic
+4083,006,037,016,017,California,Los Angeles County,Idaho,Bonner County,19,6,13,25,Domestic
+4730,006,037,041,065,California,Los Angeles County,Oregon,Wasco County,19,6,13,25,Domestic
+4299,006,037,024,043,California,Los Angeles County,Maryland,Washington County,13,0,13,13,Domestic
+4116,006,037,017,083,California,Los Angeles County,Illinois,Jersey County,13,0,13,13,Domestic
+4166,006,037,018,151,California,Los Angeles County,Indiana,Steuben County,12,0,12,12,Domestic
+4697,006,037,040,121,California,Los Angeles County,Oklahoma,Pittsburg County,12,0,12,12,Domestic
+4769,006,037,042,115,California,Los Angeles County,Pennsylvania,Susquehanna County,14,2,12,16,Domestic
+4830,006,037,047,115,California,Los Angeles County,Tennessee,Marion County,12,0,12,12,Domestic
+4458,006,037,030,081,California,Los Angeles County,Montana,Ravalli County,12,0,12,12,Domestic
+4241,006,037,021,117,California,Los Angeles County,Kentucky,Kenton County,25,13,12,38,Domestic
+3873,006,037,005,097,California,Los Angeles County,Arkansas,Montgomery County,12,0,12,12,Domestic
+4820,006,037,047,013,California,Los Angeles County,Tennessee,Campbell County,12,0,12,12,Domestic
+4683,006,037,040,047,California,Los Angeles County,Oklahoma,Garfield County,23,11,12,34,Domestic
+5062,006,037,055,027,California,Los Angeles County,Wisconsin,Dodge County,12,0,12,12,Domestic
+4920,006,037,048,395,California,Los Angeles County,Texas,Robertson County,12,0,12,12,Domestic
+4486,006,037,032,510,California,Los Angeles County,Nevada,Carson City,70,58,12,128,Domestic
+4062,006,037,013,217,California,Los Angeles County,Georgia,Newton County,16,4,12,20,Domestic
+3951,006,037,008,051,California,Los Angeles County,Colorado,Gunnison County,19,7,12,26,Domestic
+4041,006,037,013,087,California,Los Angeles County,Georgia,Decatur County,12,0,12,12,Domestic
+4999,006,037,051,590,California,Los Angeles County,Virginia,Danville city,12,0,12,12,Domestic
+5122,006,037,072,135,California,Los Angeles County,Puerto Rico,Toa Alta Municipio,11,0,11,11,Domestic
+4579,006,037,037,031,California,Los Angeles County,North Carolina,Carteret County,15,4,11,19,Domestic
+3867,006,037,005,069,California,Los Angeles County,Arkansas,Jefferson County,20,9,11,29,Domestic
+4295,006,037,024,029,California,Los Angeles County,Maryland,Kent County,14,3,11,17,Domestic
+4102,006,037,016,081,California,Los Angeles County,Idaho,Teton County,11,0,11,11,Domestic
+4584,006,037,037,047,California,Los Angeles County,North Carolina,Columbus County,11,0,11,11,Domestic
+3959,006,037,008,085,California,Los Angeles County,Colorado,Montrose County,29,19,10,48,Domestic
+4188,006,037,019,111,California,Los Angeles County,Iowa,Lee County,10,0,10,10,Domestic
+4539,006,037,036,027,California,Los Angeles County,New York,Dutchess County,110,100,10,210,Domestic
+4794,006,037,045,077,California,Los Angeles County,South Carolina,Pickens County,10,0,10,10,Domestic
+3988,006,037,012,015,California,Los Angeles County,Florida,Charlotte County,10,0,10,10,Domestic
+4489,006,037,033,005,California,Los Angeles County,New Hampshire,Cheshire County,18,8,10,26,Domestic
+4994,006,037,051,199,California,Los Angeles County,Virginia,York County,10,0,10,10,Domestic
+4180,006,037,019,057,California,Los Angeles County,Iowa,Des Moines County,17,7,10,24,Domestic
+4283,006,037,023,015,California,Los Angeles County,Maine,Lincoln County,15,5,10,20,Domestic
+4369,006,037,027,099,California,Los Angeles County,Minnesota,Mower County,16,6,10,22,Domestic
+4932,006,037,048,469,California,Los Angeles County,Texas,Victoria County,10,0,10,10,Domestic
+4142,006,037,018,013,California,Los Angeles County,Indiana,Brown County,10,0,10,10,Domestic
+4370,006,037,027,109,California,Los Angeles County,Minnesota,Olmsted County,32,22,10,54,Domestic
+4163,006,037,018,133,California,Los Angeles County,Indiana,Putnam County,10,0,10,10,Domestic
+5001,006,037,051,610,California,Los Angeles County,Virginia,Falls Church city,10,0,10,10,Domestic
+4801,006,037,046,027,California,Los Angeles County,South Dakota,Clay County,28,18,10,46,Domestic
+4316,006,037,026,017,California,Los Angeles County,Michigan,Bay County,10,0,10,10,Domestic
+4831,006,037,047,119,California,Los Angeles County,Tennessee,Maury County,11,1,10,12,Domestic
+5051,006,037,054,033,California,Los Angeles County,West Virginia,Harrison County,9,0,9,9,Domestic
+5119,006,037,072,097,California,Los Angeles County,Puerto Rico,Mayagüez Municipio,9,0,9,9,Domestic
+4146,006,037,018,035,California,Los Angeles County,Indiana,Delaware County,25,16,9,41,Domestic
+4608,006,037,037,153,California,Los Angeles County,North Carolina,Richmond County,9,0,9,9,Domestic
+4360,006,037,027,041,California,Los Angeles County,Minnesota,Douglas County,9,0,9,9,Domestic
+4785,006,037,045,029,California,Los Angeles County,South Carolina,Colleton County,9,0,9,9,Domestic
+3806,006,037,001,009,California,Los Angeles County,Alabama,Blount County,9,0,9,9,Domestic
+4996,006,037,051,520,California,Los Angeles County,Virginia,Bristol city,9,0,9,9,Domestic
+4189,006,037,019,113,California,Los Angeles County,Iowa,Linn County,39,30,9,69,Domestic
+4048,006,037,013,119,California,Los Angeles County,Georgia,Franklin County,9,0,9,9,Domestic
+4058,006,037,013,179,California,Los Angeles County,Georgia,Liberty County,30,22,8,52,Domestic
+4633,006,037,039,017,California,Los Angeles County,Ohio,Butler County,51,43,8,94,Domestic
+4213,006,037,020,051,California,Los Angeles County,Kansas,Ellis County,8,0,8,8,Domestic
+5020,006,037,053,007,California,Los Angeles County,Washington,Chelan County,8,0,8,8,Domestic
+5004,006,037,051,678,California,Los Angeles County,Virginia,Lexington city,21,13,8,34,Domestic
+4800,006,037,046,019,California,Los Angeles County,South Dakota,Butte County,8,0,8,8,Domestic
+4766,006,037,042,107,California,Los Angeles County,Pennsylvania,Schuylkill County,8,0,8,8,Domestic
+4918,006,037,048,381,California,Los Angeles County,Texas,Randall County,45,37,8,82,Domestic
+4447,006,037,030,005,California,Los Angeles County,Montana,Blaine County,8,0,8,8,Domestic
+4678,006,037,040,021,California,Los Angeles County,Oklahoma,Cherokee County,8,0,8,8,Domestic
+5055,006,037,054,069,California,Los Angeles County,West Virginia,Ohio County,9,1,8,10,Domestic
+4176,006,037,019,045,California,Los Angeles County,Iowa,Clinton County,8,0,8,8,Domestic
+3946,006,037,008,037,California,Los Angeles County,Colorado,Eagle County,8,0,8,8,Domestic
+4825,006,037,047,089,California,Los Angeles County,Tennessee,Jefferson County,7,0,7,7,Domestic
+4030,006,037,013,031,California,Los Angeles County,Georgia,Bulloch County,7,0,7,7,Domestic
+4583,006,037,037,045,California,Los Angeles County,North Carolina,Cleveland County,7,0,7,7,Domestic
+4542,006,037,036,039,California,Los Angeles County,New York,Greene County,7,0,7,7,Domestic
+4748,006,037,042,051,California,Los Angeles County,Pennsylvania,Fayette County,7,0,7,7,Domestic
+3942,006,037,008,023,California,Los Angeles County,Colorado,Costilla County,7,0,7,7,Domestic
+4721,006,037,041,041,California,Los Angeles County,Oregon,Lincoln County,15,8,7,23,Domestic
+4512,006,037,034,037,California,Los Angeles County,New Jersey,Sussex County,68,61,7,129,Domestic
+5113,006,037,072,035,California,Los Angeles County,Puerto Rico,Cayey Municipio,23,16,7,39,Domestic
+4425,006,037,029,089,California,Los Angeles County,Missouri,Howard County,7,0,7,7,Domestic
+4154,006,037,018,089,California,Los Angeles County,Indiana,Lake County,71,64,7,135,Domestic
+4487,006,037,033,001,California,Los Angeles County,New Hampshire,Belknap County,7,0,7,7,Domestic
+4980,006,037,051,073,California,Los Angeles County,Virginia,Gloucester County,7,0,7,7,Domestic
+4356,006,037,027,021,California,Los Angeles County,Minnesota,Cass County,7,0,7,7,Domestic
+4506,006,037,034,025,California,Los Angeles County,New Jersey,Monmouth County,64,58,6,122,Domestic
+4735,006,037,042,013,California,Los Angeles County,Pennsylvania,Blair County,13,7,6,20,Domestic
+4488,006,037,033,003,California,Los Angeles County,New Hampshire,Carroll County,6,0,6,6,Domestic
+4009,006,037,012,089,California,Los Angeles County,Florida,Nassau County,6,0,6,6,Domestic
+4137,006,037,017,195,California,Los Angeles County,Illinois,Whiteside County,6,0,6,6,Domestic
+4705,006,037,040,147,California,Los Angeles County,Oklahoma,Washington County,17,11,6,28,Domestic
+4974,006,037,051,041,California,Los Angeles County,Virginia,Chesterfield County,41,35,6,76,Domestic
+4385,006,037,027,169,California,Los Angeles County,Minnesota,Winona County,6,0,6,6,Domestic
+4097,006,037,016,067,California,Los Angeles County,Idaho,Minidoka County,8,2,6,10,Domestic
+4059,006,037,013,185,California,Los Angeles County,Georgia,Lowndes County,26,20,6,46,Domestic
+4051,006,037,013,127,California,Los Angeles County,Georgia,Glynn County,6,0,6,6,Domestic
+5029,006,037,053,029,California,Los Angeles County,Washington,Island County,57,51,6,108,Domestic
+4993,006,037,051,197,California,Los Angeles County,Virginia,Wythe County,6,0,6,6,Domestic
+4268,006,037,022,079,California,Los Angeles County,Louisiana,Rapides Parish,6,0,6,6,Domestic
+4292,006,037,024,021,California,Los Angeles County,Maryland,Frederick County,20,15,5,35,Domestic
+4252,006,037,022,017,California,Los Angeles County,Louisiana,Caddo Parish,22,17,5,39,Domestic
+4364,006,037,027,067,California,Los Angeles County,Minnesota,Kandiyohi County,5,0,5,5,Domestic
+4298,006,037,024,037,California,Los Angeles County,Maryland,St. Mary's County,5,0,5,5,Domestic
+4254,006,037,022,021,California,Los Angeles County,Louisiana,Caldwell Parish,5,0,5,5,Domestic
+4347,006,037,026,159,California,Los Angeles County,Michigan,Van Buren County,10,5,5,15,Domestic
+4119,006,037,017,093,California,Los Angeles County,Illinois,Kendall County,5,0,5,5,Domestic
+5111,006,037,072,025,California,Los Angeles County,Puerto Rico,Caguas Municipio,5,0,5,5,Domestic
+4604,006,037,037,141,California,Los Angeles County,North Carolina,Pender County,5,0,5,5,Domestic
+3985,006,037,012,007,California,Los Angeles County,Florida,Bradford County,5,0,5,5,Domestic
+3835,006,037,002,130,California,Los Angeles County,Alaska,Ketchikan Gateway Borough,12,7,5,19,Domestic
+3907,006,037,006,057,California,Los Angeles County,California,Nevada County,241,237,4,478,Domestic
+4078,006,037,016,005,California,Los Angeles County,Idaho,Bannock County,30,26,4,56,Domestic
+4171,006,037,018,177,California,Los Angeles County,Indiana,Wayne County,14,10,4,24,Domestic
+4286,006,037,023,029,California,Los Angeles County,Maine,Washington County,7,3,4,10,Domestic
+5102,006,037,056,019,California,Los Angeles County,Wyoming,Johnson County,4,0,4,4,Domestic
+4965,006,037,050,023,California,Los Angeles County,Vermont,Washington County,9,5,4,14,Domestic
+4931,006,037,048,465,California,Los Angeles County,Texas,Val Verde County,4,0,4,4,Domestic
+4652,006,037,039,085,California,Los Angeles County,Ohio,Lake County,56,53,3,109,Domestic
+5008,006,037,051,700,California,Los Angeles County,Virginia,Newport News city,124,121,3,245,Domestic
+4585,006,037,037,049,California,Los Angeles County,North Carolina,Craven County,36,33,3,69,Domestic
+4959,006,037,050,007,California,Los Angeles County,Vermont,Chittenden County,97,94,3,191,Domestic
+4761,006,037,042,091,California,Los Angeles County,Pennsylvania,Montgomery County,141,138,3,279,Domestic
+4285,006,037,023,021,California,Los Angeles County,Maine,Piscataquis County,3,0,3,3,Domestic
+4595,006,037,037,089,California,Los Angeles County,North Carolina,Henderson County,12,9,3,21,Domestic
+4982,006,037,051,087,California,Los Angeles County,Virginia,Henrico County,49,46,3,95,Domestic
+4344,006,037,026,145,California,Los Angeles County,Michigan,Saginaw County,17,14,3,31,Domestic
+4516,006,037,035,005,California,Los Angeles County,New Mexico,Chaves County,40,37,3,77,Domestic
+4762,006,037,042,095,California,Los Angeles County,Pennsylvania,Northampton County,47,44,3,91,Domestic
+4379,006,037,027,143,California,Los Angeles County,Minnesota,Sibley County,11,9,2,20,Domestic
+4328,006,037,026,065,California,Los Angeles County,Michigan,Ingham County,130,128,2,258,Domestic
+4698,006,037,040,123,California,Los Angeles County,Oklahoma,Pontotoc County,63,61,2,124,Domestic
+4817,006,037,047,003,California,Los Angeles County,Tennessee,Bedford County,1,0,1,1,Domestic
+4329,006,037,026,075,California,Los Angeles County,Michigan,Jackson County,9,8,1,17,Domestic
+4195,006,037,019,155,California,Los Angeles County,Iowa,Pottawattamie County,17,16,1,33,Domestic
+4940,006,037,049,003,California,Los Angeles County,Utah,Box Elder County,21,20,1,41,Domestic
+4094,006,037,016,057,California,Los Angeles County,Idaho,Latah County,7,6,1,13,Domestic
+4179,006,037,019,053,California,Los Angeles County,Iowa,Decatur County,12,11,1,23,Domestic
+4883,006,037,048,203,California,Los Angeles County,Texas,Harrison County,1,0,1,1,Domestic
+4490,006,037,033,009,California,Los Angeles County,New Hampshire,Grafton County,70,69,1,139,Domestic
+4964,006,037,050,021,California,Los Angeles County,Vermont,Rutland County,24,23,1,47,Domestic
+3910,006,037,006,063,California,Los Angeles County,California,Plumas County,21,21,0,42,Domestic
+5100,006,037,056,013,California,Los Angeles County,Wyoming,Fremont County,3,3,0,6,Domestic
+4819,006,037,047,009,California,Los Angeles County,Tennessee,Blount County,6,6,0,12,Domestic
+4509,006,037,034,031,California,Los Angeles County,New Jersey,Passaic County,48,48,0,96,Domestic
+4333,006,037,026,093,California,Los Angeles County,Michigan,Livingston County,5,5,0,10,Domestic
+4461,006,037,031,027,California,Los Angeles County,Nebraska,Cedar County,0,1,-1,1,Domestic
+3956,006,037,008,073,California,Los Angeles County,Colorado,Lincoln County,0,1,-1,1,Domestic
+4960,006,037,050,009,California,Los Angeles County,Vermont,Essex County,0,1,-1,1,Domestic
+4714,006,037,041,021,California,Los Angeles County,Oregon,Gilliam County,0,1,-1,1,Domestic
+4610,006,037,037,165,California,Los Angeles County,North Carolina,Scotland County,0,1,-1,1,Domestic
+4623,006,037,038,085,California,Los Angeles County,North Dakota,Sioux County,0,1,-1,1,Domestic
+4067,006,037,013,261,California,Los Angeles County,Georgia,Sumter County,0,1,-1,1,Domestic
+4847,006,037,048,025,California,Los Angeles County,Texas,Bee County,0,1,-1,1,Domestic
+4469,006,037,031,133,California,Los Angeles County,Nebraska,Pawnee County,0,1,-1,1,Domestic
+4624,006,037,038,089,California,Los Angeles County,North Dakota,Stark County,0,1,-1,1,Domestic
+4694,006,037,040,115,California,Los Angeles County,Oklahoma,Ottawa County,0,1,-1,1,Domestic
+3864,006,037,005,049,California,Los Angeles County,Arkansas,Fulton County,0,1,-1,1,Domestic
+4219,006,037,020,123,California,Los Angeles County,Kansas,Mitchell County,0,1,-1,1,Domestic
+4572,006,037,036,123,California,Los Angeles County,New York,Yates County,7,8,-1,15,Domestic
+4943,006,037,049,017,California,Los Angeles County,Utah,Garfield County,5,6,-1,11,Domestic
+3996,006,037,012,053,California,Los Angeles County,Florida,Hernando County,0,1,-1,1,Domestic
+4361,006,037,027,043,California,Los Angeles County,Minnesota,Faribault County,0,1,-1,1,Domestic
+4556,006,037,036,079,California,Los Angeles County,New York,Putnam County,7,8,-1,15,Domestic
+5039,006,037,053,057,California,Los Angeles County,Washington,Skagit County,53,55,-2,108,Domestic
+4688,006,037,040,097,California,Los Angeles County,Oklahoma,Mayes County,0,2,-2,2,Domestic
+4382,006,037,027,153,California,Los Angeles County,Minnesota,Todd County,0,2,-2,2,Domestic
+3995,006,037,012,047,California,Los Angeles County,Florida,Hamilton County,0,2,-2,2,Domestic
+4354,006,037,027,017,California,Los Angeles County,Minnesota,Carlton County,0,2,-2,2,Domestic
+4618,006,037,038,017,California,Los Angeles County,North Dakota,Cass County,28,30,-2,58,Domestic
+4954,006,037,049,055,California,Los Angeles County,Utah,Wayne County,0,2,-2,2,Domestic
+4484,006,037,032,029,California,Los Angeles County,Nevada,Storey County,0,2,-2,2,Domestic
+4327,006,037,026,063,California,Los Angeles County,Michigan,Huron County,0,2,-2,2,Domestic
+4383,006,037,027,157,California,Los Angeles County,Minnesota,Wabasha County,0,2,-2,2,Domestic
+4805,006,037,046,059,California,Los Angeles County,South Dakota,Hand County,0,2,-2,2,Domestic
+5045,006,037,053,073,California,Los Angeles County,Washington,Whatcom County,132,134,-2,266,Domestic
+4325,006,037,026,057,California,Los Angeles County,Michigan,Gratiot County,0,2,-2,2,Domestic
+4026,006,037,013,009,California,Los Angeles County,Georgia,Baldwin County,10,12,-2,22,Domestic
+4353,006,037,027,013,California,Los Angeles County,Minnesota,Blue Earth County,0,2,-2,2,Domestic
+4802,006,037,046,033,California,Los Angeles County,South Dakota,Custer County,0,2,-2,2,Domestic
+4674,006,037,040,009,California,Los Angeles County,Oklahoma,Beckham County,14,16,-2,30,Domestic
+5074,006,037,055,081,California,Los Angeles County,Wisconsin,Monroe County,0,2,-2,2,Domestic
+4728,006,037,041,059,California,Los Angeles County,Oregon,Umatilla County,0,2,-2,2,Domestic
+4879,006,037,048,189,California,Los Angeles County,Texas,Hale County,0,2,-2,2,Domestic
+4222,006,037,020,157,California,Los Angeles County,Kansas,Republic County,0,2,-2,2,Domestic
+3834,006,037,002,122,California,Los Angeles County,Alaska,Kenai Peninsula Borough,51,53,-2,104,Domestic
+4535,006,037,036,011,California,Los Angeles County,New York,Cayuga County,0,2,-2,2,Domestic
+5108,006,037,056,045,California,Los Angeles County,Wyoming,Weston County,0,2,-2,2,Domestic
+4206,006,037,020,017,California,Los Angeles County,Kansas,Chase County,0,2,-2,2,Domestic
+3856,006,037,005,005,California,Los Angeles County,Arkansas,Baxter County,0,2,-2,2,Domestic
+4183,006,037,019,081,California,Los Angeles County,Iowa,Hancock County,0,2,-2,2,Domestic
+4574,006,037,037,011,California,Los Angeles County,North Carolina,Avery County,0,2,-2,2,Domestic
+4170,006,037,018,169,California,Los Angeles County,Indiana,Wabash County,0,2,-2,2,Domestic
+4930,006,037,048,457,California,Los Angeles County,Texas,Tyler County,0,2,-2,2,Domestic
+4450,006,037,030,017,California,Los Angeles County,Montana,Custer County,0,2,-2,2,Domestic
+4162,006,037,018,129,California,Los Angeles County,Indiana,Posey County,0,2,-2,2,Domestic
+4079,006,037,016,007,California,Los Angeles County,Idaho,Bear Lake County,0,2,-2,2,Domestic
+4387,006,037,028,007,California,Los Angeles County,Mississippi,Attala County,0,2,-2,2,Domestic
+4873,006,037,048,165,California,Los Angeles County,Texas,Gaines County,0,2,-2,2,Domestic
+4107,006,037,017,029,California,Los Angeles County,Illinois,Coles County,0,2,-2,2,Domestic
+4082,006,037,016,015,California,Los Angeles County,Idaho,Boise County,0,2,-2,2,Domestic
+5079,006,037,055,093,California,Los Angeles County,Wisconsin,Pierce County,0,2,-2,2,Domestic
+3865,006,037,005,061,California,Los Angeles County,Arkansas,Howard County,0,3,-3,3,Domestic
+4906,006,037,048,323,California,Los Angeles County,Texas,Maverick County,0,3,-3,3,Domestic
+3949,006,037,008,045,California,Los Angeles County,Colorado,Garfield County,0,3,-3,3,Domestic
+4750,006,037,042,061,California,Los Angeles County,Pennsylvania,Huntingdon County,0,3,-3,3,Domestic
+4424,006,037,029,083,California,Los Angeles County,Missouri,Henry County,0,3,-3,3,Domestic
+4389,006,037,028,013,California,Los Angeles County,Mississippi,Calhoun County,0,3,-3,3,Domestic
+3855,006,037,005,003,California,Los Angeles County,Arkansas,Ashley County,0,3,-3,3,Domestic
+4892,006,037,048,231,California,Los Angeles County,Texas,Hunt County,0,3,-3,3,Domestic
+5066,006,037,055,039,California,Los Angeles County,Wisconsin,Fond du Lac County,0,3,-3,3,Domestic
+4366,006,037,027,083,California,Los Angeles County,Minnesota,Lyon County,6,9,-3,15,Domestic
+4891,006,037,048,229,California,Los Angeles County,Texas,Hudspeth County,0,3,-3,3,Domestic
+4690,006,037,040,101,California,Los Angeles County,Oklahoma,Muskogee County,13,16,-3,29,Domestic
+4777,006,037,044,005,California,Los Angeles County,Rhode Island,Newport County,23,26,-3,49,Domestic
+4695,006,037,040,117,California,Los Angeles County,Oklahoma,Pawnee County,0,3,-3,3,Domestic
+4470,006,037,031,137,California,Los Angeles County,Nebraska,Phelps County,0,3,-3,3,Domestic
+4448,006,037,030,009,California,Los Angeles County,Montana,Carbon County,0,3,-3,3,Domestic
+4463,006,037,031,053,California,Los Angeles County,Nebraska,Dodge County,0,3,-3,3,Domestic
+4437,006,037,029,165,California,Los Angeles County,Missouri,Platte County,2,5,-3,7,Domestic
+4321,006,037,026,039,California,Los Angeles County,Michigan,Crawford County,0,3,-3,3,Domestic
+4662,006,037,039,119,California,Los Angeles County,Ohio,Muskingum County,0,3,-3,3,Domestic
+4603,006,037,037,139,California,Los Angeles County,North Carolina,Pasquotank County,18,21,-3,39,Domestic
+4436,006,037,029,159,California,Los Angeles County,Missouri,Pettis County,0,3,-3,3,Domestic
+4314,006,037,026,009,California,Los Angeles County,Michigan,Antrim County,0,3,-3,3,Domestic
+3989,006,037,012,017,California,Los Angeles County,Florida,Citrus County,22,25,-3,47,Domestic
+4341,006,037,026,137,California,Los Angeles County,Michigan,Otsego County,0,3,-3,3,Domestic
+4804,006,037,046,057,California,Los Angeles County,South Dakota,Hamlin County,0,3,-3,3,Domestic
+4214,006,037,020,061,California,Los Angeles County,Kansas,Geary County,43,46,-3,89,Domestic
+4927,006,037,048,447,California,Los Angeles County,Texas,Throckmorton County,0,3,-3,3,Domestic
+4541,006,037,036,031,California,Los Angeles County,New York,Essex County,0,4,-4,4,Domestic
+5081,006,037,055,099,California,Los Angeles County,Wisconsin,Price County,0,4,-4,4,Domestic
+4615,006,037,037,195,California,Los Angeles County,North Carolina,Wilson County,0,4,-4,4,Domestic
+4080,006,037,016,011,California,Los Angeles County,Idaho,Bingham County,0,4,-4,4,Domestic
+4916,006,037,048,373,California,Los Angeles County,Texas,Polk County,0,4,-4,4,Domestic
+4814,006,037,046,127,California,Los Angeles County,South Dakota,Union County,0,4,-4,4,Domestic
+5083,006,037,055,105,California,Los Angeles County,Wisconsin,Rock County,25,29,-4,54,Domestic
+4129,006,037,017,123,California,Los Angeles County,Illinois,Marshall County,0,4,-4,4,Domestic
+4569,006,037,036,113,California,Los Angeles County,New York,Warren County,0,4,-4,4,Domestic
+4894,006,037,048,243,California,Los Angeles County,Texas,Jeff Davis County,0,4,-4,4,Domestic
+5089,006,037,055,125,California,Los Angeles County,Wisconsin,Vilas County,4,8,-4,12,Domestic
+4098,006,037,016,069,California,Los Angeles County,Idaho,Nez Perce County,10,14,-4,24,Domestic
+5095,006,037,055,139,California,Los Angeles County,Wisconsin,Winnebago County,36,40,-4,76,Domestic
+4966,006,037,050,025,California,Los Angeles County,Vermont,Windham County,0,4,-4,4,Domestic
+4259,006,037,022,049,California,Los Angeles County,Louisiana,Jackson Parish,0,4,-4,4,Domestic
+4101,006,037,016,079,California,Los Angeles County,Idaho,Shoshone County,0,4,-4,4,Domestic
+4054,006,037,013,149,California,Los Angeles County,Georgia,Heard County,0,4,-4,4,Domestic
+4045,006,037,013,111,California,Los Angeles County,Georgia,Fannin County,0,4,-4,4,Domestic
+4258,006,037,022,047,California,Los Angeles County,Louisiana,Iberville Parish,0,4,-4,4,Domestic
+4421,006,037,029,063,California,Los Angeles County,Missouri,DeKalb County,0,4,-4,4,Domestic
+5060,006,037,055,019,California,Los Angeles County,Wisconsin,Clark County,0,4,-4,4,Domestic
+4687,006,037,040,081,California,Los Angeles County,Oklahoma,Lincoln County,0,4,-4,4,Domestic
+4105,006,037,017,005,California,Los Angeles County,Illinois,Bond County,0,4,-4,4,Domestic
+3814,006,037,001,069,California,Los Angeles County,Alabama,Houston County,0,4,-4,4,Domestic
+4538,006,037,036,025,California,Los Angeles County,New York,Delaware County,5,10,-5,15,Domestic
+4551,006,037,036,065,California,Los Angeles County,New York,Oneida County,0,5,-5,5,Domestic
+4456,006,037,030,057,California,Los Angeles County,Montana,Madison County,0,5,-5,5,Domestic
+4948,006,037,049,041,California,Los Angeles County,Utah,Sevier County,0,5,-5,5,Domestic
+4220,006,037,020,125,California,Los Angeles County,Kansas,Montgomery County,0,5,-5,5,Domestic
+4554,006,037,036,071,California,Los Angeles County,New York,Orange County,71,76,-5,147,Domestic
+4122,006,037,017,099,California,Los Angeles County,Illinois,LaSalle County,0,5,-5,5,Domestic
+4743,006,037,042,039,California,Los Angeles County,Pennsylvania,Crawford County,0,5,-5,5,Domestic
+4215,006,037,020,069,California,Los Angeles County,Kansas,Gray County,0,5,-5,5,Domestic
+4451,006,037,030,027,California,Los Angeles County,Montana,Fergus County,0,5,-5,5,Domestic
+4422,006,037,029,067,California,Los Angeles County,Missouri,Douglas County,0,5,-5,5,Domestic
+4771,006,037,042,123,California,Los Angeles County,Pennsylvania,Warren County,0,5,-5,5,Domestic
+4218,006,037,020,111,California,Los Angeles County,Kansas,Lyon County,0,5,-5,5,Domestic
+3966,006,037,008,113,California,Los Angeles County,Colorado,San Miguel County,0,5,-5,5,Domestic
+4862,006,037,048,095,California,Los Angeles County,Texas,Concho County,0,5,-5,5,Domestic
+4318,006,037,026,029,California,Los Angeles County,Michigan,Charlevoix County,0,5,-5,5,Domestic
+4856,006,037,048,051,California,Los Angeles County,Texas,Burleson County,0,5,-5,5,Domestic
+4640,006,037,039,037,California,Los Angeles County,Ohio,Darke County,0,5,-5,5,Domestic
+5067,006,037,055,043,California,Los Angeles County,Wisconsin,Grant County,0,5,-5,5,Domestic
+4095,006,037,016,059,California,Los Angeles County,Idaho,Lemhi County,0,5,-5,5,Domestic
+3973,006,037,009,005,California,Los Angeles County,Connecticut,Litchfield County,7,12,-5,19,Domestic
+5072,006,037,055,077,California,Los Angeles County,Wisconsin,Marquette County,0,5,-5,5,Domestic
+4616,006,037,038,005,California,Los Angeles County,North Dakota,Benson County,0,5,-5,5,Domestic
+4798,006,037,045,091,California,Los Angeles County,South Carolina,York County,7,12,-5,19,Domestic
+4072,006,037,013,313,California,Los Angeles County,Georgia,Whitfield County,0,5,-5,5,Domestic
+4315,006,037,026,013,California,Los Angeles County,Michigan,Baraga County,0,5,-5,5,Domestic
+4812,006,037,046,105,California,Los Angeles County,South Dakota,Perkins County,0,5,-5,5,Domestic
+5080,006,037,055,095,California,Los Angeles County,Wisconsin,Polk County,0,5,-5,5,Domestic
+4897,006,037,048,253,California,Los Angeles County,Texas,Jones County,0,5,-5,5,Domestic
+3969,006,037,008,119,California,Los Angeles County,Colorado,Teller County,0,5,-5,5,Domestic
+4609,006,037,037,157,California,Los Angeles County,North Carolina,Rockingham County,0,5,-5,5,Domestic
+5058,006,037,055,007,California,Los Angeles County,Wisconsin,Bayfield County,0,5,-5,5,Domestic
+4747,006,037,042,049,California,Los Angeles County,Pennsylvania,Erie County,53,59,-6,112,Domestic
+4492,006,037,033,013,California,Los Angeles County,New Hampshire,Merrimack County,0,6,-6,6,Domestic
+4659,006,037,039,107,California,Los Angeles County,Ohio,Mercer County,0,6,-6,6,Domestic
+4606,006,037,037,149,California,Los Angeles County,North Carolina,Polk County,0,6,-6,6,Domestic
+4692,006,037,040,111,California,Los Angeles County,Oklahoma,Okmulgee County,0,6,-6,6,Domestic
+4553,006,037,036,069,California,Los Angeles County,New York,Ontario County,0,6,-6,6,Domestic
+4858,006,037,048,055,California,Los Angeles County,Texas,Caldwell County,0,6,-6,6,Domestic
+4738,006,037,042,019,California,Los Angeles County,Pennsylvania,Butler County,0,6,-6,6,Domestic
+4808,006,037,046,093,California,Los Angeles County,South Dakota,Meade County,0,6,-6,6,Domestic
+4564,006,037,036,101,California,Los Angeles County,New York,Steuben County,0,6,-6,6,Domestic
+4699,006,037,040,125,California,Los Angeles County,Oklahoma,Pottawatomie County,0,6,-6,6,Domestic
+4760,006,037,042,089,California,Los Angeles County,Pennsylvania,Monroe County,0,6,-6,6,Domestic
+4408,006,037,028,121,California,Los Angeles County,Mississippi,Rankin County,18,24,-6,42,Domestic
+4404,006,037,028,093,California,Los Angeles County,Mississippi,Marshall County,0,6,-6,6,Domestic
+4086,006,037,016,023,California,Los Angeles County,Idaho,Butte County,0,6,-6,6,Domestic
+4209,006,037,020,035,California,Los Angeles County,Kansas,Cowley County,0,6,-6,6,Domestic
+4975,006,037,051,051,California,Los Angeles County,Virginia,Dickenson County,0,6,-6,6,Domestic
+4313,006,037,025,027,California,Los Angeles County,Massachusetts,Worcester County,117,123,-6,240,Domestic
+4282,006,037,023,011,California,Los Angeles County,Maine,Kennebec County,16,22,-6,38,Domestic
+5076,006,037,055,085,California,Los Angeles County,Wisconsin,Oneida County,4,10,-6,14,Domestic
+5056,006,037,054,081,California,Los Angeles County,West Virginia,Raleigh County,0,6,-6,6,Domestic
+4172,006,037,019,013,California,Los Angeles County,Iowa,Black Hawk County,23,29,-6,52,Domestic
+3967,006,037,008,115,California,Los Angeles County,Colorado,Sedgwick County,0,6,-6,6,Domestic
+5048,006,037,054,001,California,Los Angeles County,West Virginia,Barbour County,0,6,-6,6,Domestic
+4953,006,037,049,053,California,Los Angeles County,Utah,Washington County,146,152,-6,298,Domestic
+4889,006,037,048,223,California,Los Angeles County,Texas,Hopkins County,0,7,-7,7,Domestic
+4767,006,037,042,109,California,Los Angeles County,Pennsylvania,Snyder County,0,7,-7,7,Domestic
+4381,006,037,027,151,California,Los Angeles County,Minnesota,Swift County,0,7,-7,7,Domestic
+4842,006,037,047,167,California,Los Angeles County,Tennessee,Tipton County,0,7,-7,7,Domestic
+4536,006,037,036,019,California,Los Angeles County,New York,Clinton County,33,40,-7,73,Domestic
+4257,006,037,022,037,California,Los Angeles County,Louisiana,East Feliciana Parish,0,7,-7,7,Domestic
+3839,006,037,002,188,California,Los Angeles County,Alaska,Northwest Arctic Borough,0,7,-7,7,Domestic
+5026,006,037,053,021,California,Los Angeles County,Washington,Franklin County,0,7,-7,7,Domestic
+4317,006,037,026,025,California,Los Angeles County,Michigan,Calhoun County,0,7,-7,7,Domestic
+4335,006,037,026,107,California,Los Angeles County,Michigan,Mecosta County,0,7,-7,7,Domestic
+5088,006,037,055,123,California,Los Angeles County,Wisconsin,Vernon County,0,7,-7,7,Domestic
+4345,006,037,026,147,California,Los Angeles County,Michigan,St. Clair County,0,7,-7,7,Domestic
+4852,006,037,048,041,California,Los Angeles County,Texas,Brazos County,107,114,-7,221,Domestic
+4110,006,037,017,041,California,Los Angeles County,Illinois,Douglas County,0,7,-7,7,Domestic
+5017,006,037,051,840,California,Los Angeles County,Virginia,Winchester city,0,7,-7,7,Domestic
+4434,006,037,029,145,California,Los Angeles County,Missouri,Newton County,0,7,-7,7,Domestic
+4876,006,037,048,179,California,Los Angeles County,Texas,Gray County,0,7,-7,7,Domestic
+4120,006,037,017,095,California,Los Angeles County,Illinois,Knox County,0,7,-7,7,Domestic
+4000,006,037,012,061,California,Los Angeles County,Florida,Indian River County,0,7,-7,7,Domestic
+4193,006,037,019,149,California,Los Angeles County,Iowa,Plymouth County,0,7,-7,7,Domestic
+4185,006,037,019,095,California,Los Angeles County,Iowa,Iowa County,0,7,-7,7,Domestic
+4444,006,037,029,223,California,Los Angeles County,Missouri,Wayne County,0,7,-7,7,Domestic
+5024,006,037,053,017,California,Los Angeles County,Washington,Douglas County,0,8,-8,8,Domestic
+4031,006,037,013,035,California,Los Angeles County,Georgia,Butts County,0,8,-8,8,Domestic
+4701,006,037,040,133,California,Los Angeles County,Oklahoma,Seminole County,0,8,-8,8,Domestic
+5086,006,037,055,113,California,Los Angeles County,Wisconsin,Sawyer County,0,8,-8,8,Domestic
+4990,006,037,051,185,California,Los Angeles County,Virginia,Tazewell County,0,8,-8,8,Domestic
+4143,006,037,018,019,California,Los Angeles County,Indiana,Clark County,0,8,-8,8,Domestic
+4262,006,037,022,057,California,Los Angeles County,Louisiana,Lafourche Parish,0,8,-8,8,Domestic
+4019,006,037,012,113,California,Los Angeles County,Florida,Santa Rosa County,0,8,-8,8,Domestic
+5042,006,037,053,065,California,Los Angeles County,Washington,Stevens County,0,8,-8,8,Domestic
+4211,006,037,020,039,California,Los Angeles County,Kansas,Decatur County,0,8,-8,8,Domestic
+4256,006,037,022,035,California,Los Angeles County,Louisiana,East Carroll Parish,0,8,-8,8,Domestic
+4197,006,037,019,159,California,Los Angeles County,Iowa,Ringgold County,0,8,-8,8,Domestic
+4537,006,037,036,021,California,Los Angeles County,New York,Columbia County,0,8,-8,8,Domestic
+4944,006,037,049,019,California,Los Angeles County,Utah,Grand County,0,8,-8,8,Domestic
+3955,006,037,008,071,California,Los Angeles County,Colorado,Las Animas County,0,8,-8,8,Domestic
+4238,006,037,021,101,California,Los Angeles County,Kentucky,Henderson County,0,8,-8,8,Domestic
+3987,006,037,012,011,California,Los Angeles County,Florida,Broward County,523,531,-8,1054,Domestic
+4465,006,037,031,085,California,Los Angeles County,Nebraska,Hayes County,0,8,-8,8,Domestic
+4100,006,037,016,077,California,Los Angeles County,Idaho,Power County,0,8,-8,8,Domestic
+3821,006,037,001,091,California,Los Angeles County,Alabama,Marengo County,0,8,-8,8,Domestic
+4431,006,037,029,111,California,Los Angeles County,Missouri,Lewis County,0,8,-8,8,Domestic
+4475,006,037,031,177,California,Los Angeles County,Nebraska,Washington County,0,8,-8,8,Domestic
+4763,006,037,042,097,California,Los Angeles County,Pennsylvania,Northumberland County,7,15,-8,22,Domestic
+4768,006,037,042,113,California,Los Angeles County,Pennsylvania,Sullivan County,0,8,-8,8,Domestic
+4395,006,037,028,055,California,Los Angeles County,Mississippi,Issaquena County,0,8,-8,8,Domestic
+4773,006,037,042,129,California,Los Angeles County,Pennsylvania,Westmoreland County,3,11,-8,14,Domestic
+3870,006,037,005,075,California,Los Angeles County,Arkansas,Lawrence County,0,8,-8,8,Domestic
+4399,006,037,028,077,California,Los Angeles County,Mississippi,Lawrence County,0,8,-8,8,Domestic
+4459,006,037,030,111,California,Los Angeles County,Montana,Yellowstone County,0,8,-8,8,Domestic
+3977,006,037,009,013,California,Los Angeles County,Connecticut,Tolland County,0,9,-9,9,Domestic
+4685,006,037,040,065,California,Los Angeles County,Oklahoma,Jackson County,0,9,-9,9,Domestic
+4734,006,037,042,011,California,Los Angeles County,Pennsylvania,Berks County,29,38,-9,67,Domestic
+4471,006,037,031,143,California,Los Angeles County,Nebraska,Polk County,0,9,-9,9,Domestic
+3828,006,037,002,013,California,Los Angeles County,Alaska,Aleutians East Borough,0,9,-9,9,Domestic
+4227,006,037,020,191,California,Los Angeles County,Kansas,Sumner County,0,9,-9,9,Domestic
+4350,006,037,026,165,California,Los Angeles County,Michigan,Wexford County,0,9,-9,9,Domestic
+4208,006,037,020,029,California,Los Angeles County,Kansas,Cloud County,0,9,-9,9,Domestic
+5053,006,037,054,051,California,Los Angeles County,West Virginia,Marshall County,0,9,-9,9,Domestic
+4201,006,037,019,183,California,Los Angeles County,Iowa,Washington County,0,9,-9,9,Domestic
+3812,006,037,001,051,California,Los Angeles County,Alabama,Elmore County,0,9,-9,9,Domestic
+5005,006,037,051,680,California,Los Angeles County,Virginia,Lynchburg city,0,9,-9,9,Domestic
+4803,006,037,046,047,California,Los Angeles County,South Dakota,Fall River County,0,9,-9,9,Domestic
+4632,006,037,039,015,California,Los Angeles County,Ohio,Brown County,0,9,-9,9,Domestic
+4625,006,037,038,093,California,Los Angeles County,North Dakota,Stutsman County,0,9,-9,9,Domestic
+4141,006,037,018,005,California,Los Angeles County,Indiana,Bartholomew County,0,9,-9,9,Domestic
+4759,006,037,042,087,California,Los Angeles County,Pennsylvania,Mifflin County,0,9,-9,9,Domestic
+4430,006,037,029,103,California,Los Angeles County,Missouri,Knox County,0,9,-9,9,Domestic
+4815,006,037,046,135,California,Los Angeles County,South Dakota,Yankton County,5,14,-9,19,Domestic
+4273,006,037,022,109,California,Los Angeles County,Louisiana,Terrebonne Parish,7,16,-9,23,Domestic
+4521,006,037,035,019,California,Los Angeles County,New Mexico,Guadalupe County,0,9,-9,9,Domestic
+3869,006,037,005,073,California,Los Angeles County,Arkansas,Lafayette County,0,9,-9,9,Domestic
+4854,006,037,048,047,California,Los Angeles County,Texas,Brooks County,0,9,-9,9,Domestic
+4702,006,037,040,137,California,Los Angeles County,Oklahoma,Stephens County,0,9,-9,9,Domestic
+5094,006,037,055,137,California,Los Angeles County,Wisconsin,Waushara County,0,9,-9,9,Domestic
+5090,006,037,055,127,California,Los Angeles County,Wisconsin,Walworth County,21,30,-9,51,Domestic
+4908,006,037,048,329,California,Los Angeles County,Texas,Midland County,0,9,-9,9,Domestic
+4460,006,037,031,019,California,Los Angeles County,Nebraska,Buffalo County,0,10,-10,10,Domestic
+4788,006,037,045,043,California,Los Angeles County,South Carolina,Georgetown County,0,10,-10,10,Domestic
+5115,006,037,072,061,California,Los Angeles County,Puerto Rico,Guaynabo Municipio,65,75,-10,140,Domestic
+4666,006,037,039,141,California,Los Angeles County,Ohio,Ross County,0,10,-10,10,Domestic
+4196,006,037,019,157,California,Los Angeles County,Iowa,Poweshiek County,0,10,-10,10,Domestic
+3863,006,037,005,035,California,Los Angeles County,Arkansas,Crittenden County,0,10,-10,10,Domestic
+4567,006,037,036,109,California,Los Angeles County,New York,Tompkins County,133,143,-10,276,Domestic
+3877,006,037,005,123,California,Los Angeles County,Arkansas,St. Francis County,12,22,-10,34,Domestic
+4322,006,037,026,047,California,Los Angeles County,Michigan,Emmet County,0,10,-10,10,Domestic
+4060,006,037,013,211,California,Los Angeles County,Georgia,Morgan County,0,10,-10,10,Domestic
+4818,006,037,047,007,California,Los Angeles County,Tennessee,Bledsoe County,0,10,-10,10,Domestic
+4442,006,037,029,195,California,Los Angeles County,Missouri,Saline County,0,10,-10,10,Domestic
+4281,006,037,023,009,California,Los Angeles County,Maine,Hancock County,0,10,-10,10,Domestic
+4068,006,037,013,263,California,Los Angeles County,Georgia,Talbot County,0,10,-10,10,Domestic
+4865,006,037,048,115,California,Los Angeles County,Texas,Dawson County,0,10,-10,10,Domestic
+4433,006,037,029,127,California,Los Angeles County,Missouri,Marion County,0,10,-10,10,Domestic
+4103,006,037,016,083,California,Los Angeles County,Idaho,Twin Falls County,10,20,-10,30,Domestic
+4523,006,037,035,028,California,Los Angeles County,New Mexico,Los Alamos County,0,10,-10,10,Domestic
+4090,006,037,016,039,California,Los Angeles County,Idaho,Elmore County,0,10,-10,10,Domestic
+4790,006,037,045,049,California,Los Angeles County,South Carolina,Hampton County,0,10,-10,10,Domestic
+4126,006,037,017,113,California,Los Angeles County,Illinois,McLean County,27,38,-11,65,Domestic
+4887,006,037,048,217,California,Los Angeles County,Texas,Hill County,0,11,-11,11,Domestic
+5010,006,037,051,720,California,Los Angeles County,Virginia,Norton city,0,11,-11,11,Domestic
+4752,006,037,042,065,California,Los Angeles County,Pennsylvania,Jefferson County,0,11,-11,11,Domestic
+5120,006,037,072,113,California,Los Angeles County,Puerto Rico,Ponce Municipio,24,35,-11,59,Domestic
+4324,006,037,026,055,California,Los Angeles County,Michigan,Grand Traverse County,12,23,-11,35,Domestic
+4770,006,037,042,119,California,Los Angeles County,Pennsylvania,Union County,20,31,-11,51,Domestic
+5105,006,037,056,025,California,Los Angeles County,Wyoming,Natrona County,0,11,-11,11,Domestic
+5114,006,037,072,041,California,Los Angeles County,Puerto Rico,Cidra Municipio,0,11,-11,11,Domestic
+4846,006,037,048,005,California,Los Angeles County,Texas,Angelina County,31,42,-11,73,Domestic
+4673,006,037,040,001,California,Los Angeles County,Oklahoma,Adair County,0,11,-11,11,Domestic
+4229,006,037,020,203,California,Los Angeles County,Kansas,Wichita County,0,11,-11,11,Domestic
+4742,006,037,042,033,California,Los Angeles County,Pennsylvania,Clearfield County,0,11,-11,11,Domestic
+3957,006,037,008,075,California,Los Angeles County,Colorado,Logan County,0,11,-11,11,Domestic
+4634,006,037,039,023,California,Los Angeles County,Ohio,Clark County,0,12,-12,12,Domestic
+4251,006,037,022,009,California,Los Angeles County,Louisiana,Avoyelles Parish,0,12,-12,12,Domestic
+4159,006,037,018,107,California,Los Angeles County,Indiana,Montgomery County,0,12,-12,12,Domestic
+4924,006,037,048,437,California,Los Angeles County,Texas,Swisher County,0,12,-12,12,Domestic
+4340,006,037,026,133,California,Los Angeles County,Michigan,Osceola County,0,12,-12,12,Domestic
+4958,006,037,050,005,California,Los Angeles County,Vermont,Caledonia County,0,12,-12,12,Domestic
+4811,006,037,046,103,California,Los Angeles County,South Dakota,Pennington County,0,12,-12,12,Domestic
+4675,006,037,040,013,California,Los Angeles County,Oklahoma,Bryan County,0,12,-12,12,Domestic
+4280,006,037,023,007,California,Los Angeles County,Maine,Franklin County,0,12,-12,12,Domestic
+5097,006,037,056,001,California,Los Angeles County,Wyoming,Albany County,33,45,-12,78,Domestic
+4934,006,037,048,473,California,Los Angeles County,Texas,Waller County,0,12,-12,12,Domestic
+4373,006,037,027,121,California,Los Angeles County,Minnesota,Pope County,0,12,-12,12,Domestic
+4088,006,037,016,029,California,Los Angeles County,Idaho,Caribou County,0,12,-12,12,Domestic
+4416,006,037,029,027,California,Los Angeles County,Missouri,Callaway County,0,12,-12,12,Domestic
+4169,006,037,018,167,California,Los Angeles County,Indiana,Vigo County,20,32,-12,52,Domestic
+4368,006,037,027,097,California,Los Angeles County,Minnesota,Morrison County,0,12,-12,12,Domestic
+4357,006,037,027,033,California,Los Angeles County,Minnesota,Cottonwood County,0,12,-12,12,Domestic
+3826,006,037,001,117,California,Los Angeles County,Alabama,Shelby County,6,18,-12,24,Domestic
+4405,006,037,028,097,California,Los Angeles County,Mississippi,Montgomery County,0,12,-12,12,Domestic
+4922,006,037,048,411,California,Los Angeles County,Texas,San Saba County,0,12,-12,12,Domestic
+3890,006,037,006,021,California,Los Angeles County,California,Glenn County,13,25,-12,38,Domestic
+4226,006,037,020,177,California,Los Angeles County,Kansas,Shawnee County,0,13,-13,13,Domestic
+4199,006,037,019,167,California,Los Angeles County,Iowa,Sioux County,0,13,-13,13,Domestic
+5034,006,037,053,045,California,Los Angeles County,Washington,Mason County,21,34,-13,55,Domestic
+4979,006,037,051,071,California,Los Angeles County,Virginia,Giles County,0,13,-13,13,Domestic
+4113,006,037,017,075,California,Los Angeles County,Illinois,Iroquois County,0,13,-13,13,Domestic
+4349,006,037,026,163,California,Los Angeles County,Michigan,Wayne County,306,319,-13,625,Domestic
+5049,006,037,054,003,California,Los Angeles County,West Virginia,Berkeley County,11,24,-13,35,Domestic
+4001,006,037,012,069,California,Los Angeles County,Florida,Lake County,12,25,-13,37,Domestic
+4336,006,037,026,111,California,Los Angeles County,Michigan,Midland County,11,24,-13,35,Domestic
+3810,006,037,001,041,California,Los Angeles County,Alabama,Crenshaw County,0,13,-13,13,Domestic
+4184,006,037,019,083,California,Los Angeles County,Iowa,Hardin County,0,13,-13,13,Domestic
+4635,006,037,039,025,California,Los Angeles County,Ohio,Clermont County,7,20,-13,27,Domestic
+4872,006,037,048,159,California,Los Angeles County,Texas,Franklin County,0,13,-13,13,Domestic
+5068,006,037,055,055,California,Los Angeles County,Wisconsin,Jefferson County,0,13,-13,13,Domestic
+4578,006,037,037,027,California,Los Angeles County,North Carolina,Caldwell County,5,18,-13,23,Domestic
+4961,006,037,050,015,California,Los Angeles County,Vermont,Lamoille County,4,17,-13,21,Domestic
+4704,006,037,040,145,California,Los Angeles County,Oklahoma,Wagoner County,0,14,-14,14,Domestic
+5002,006,037,051,650,California,Los Angeles County,Virginia,Hampton city,24,38,-14,62,Domestic
+4005,006,037,012,083,California,Los Angeles County,Florida,Marion County,3,17,-14,20,Domestic
+4638,006,037,039,033,California,Los Angeles County,Ohio,Crawford County,0,14,-14,14,Domestic
+3808,006,037,001,031,California,Los Angeles County,Alabama,Coffee County,0,14,-14,14,Domestic
+3829,006,037,002,016,California,Los Angeles County,Alaska,Aleutians West Census Area,0,14,-14,14,Domestic
+4036,006,037,013,063,California,Los Angeles County,Georgia,Clayton County,25,39,-14,64,Domestic
+4032,006,037,013,051,California,Los Angeles County,Georgia,Chatham County,278,292,-14,570,Domestic
+3809,006,037,001,039,California,Los Angeles County,Alabama,Covington County,0,14,-14,14,Domestic
+3861,006,037,005,027,California,Los Angeles County,Arkansas,Columbia County,0,14,-14,14,Domestic
+4435,006,037,029,149,California,Los Angeles County,Missouri,Oregon County,0,14,-14,14,Domestic
+4167,006,037,018,157,California,Los Angeles County,Indiana,Tippecanoe County,116,130,-14,246,Domestic
+4605,006,037,037,147,California,Los Angeles County,North Carolina,Pitt County,3,17,-14,20,Domestic
+4407,006,037,028,113,California,Los Angeles County,Mississippi,Pike County,0,14,-14,14,Domestic
+4112,006,037,017,067,California,Los Angeles County,Illinois,Hancock County,0,14,-14,14,Domestic
+4522,006,037,035,025,California,Los Angeles County,New Mexico,Lea County,30,44,-14,74,Domestic
+4275,006,037,022,119,California,Los Angeles County,Louisiana,Webster Parish,0,14,-14,14,Domestic
+4165,006,037,018,145,California,Los Angeles County,Indiana,Shelby County,0,14,-14,14,Domestic
+4343,006,037,026,143,California,Los Angeles County,Michigan,Roscommon County,0,14,-14,14,Domestic
+5091,006,037,055,131,California,Los Angeles County,Wisconsin,Washington County,0,15,-15,15,Domestic
+4182,006,037,019,065,California,Los Angeles County,Iowa,Fayette County,0,15,-15,15,Domestic
+3978,006,037,009,015,California,Los Angeles County,Connecticut,Windham County,10,25,-15,35,Domestic
+5082,006,037,055,101,California,Los Angeles County,Wisconsin,Racine County,2,17,-15,19,Domestic
+4843,006,037,047,179,California,Los Angeles County,Tennessee,Washington County,0,15,-15,15,Domestic
+3885,006,037,006,009,California,Los Angeles County,California,Calaveras County,54,69,-15,123,Domestic
+4346,006,037,026,149,California,Los Angeles County,Michigan,St. Joseph County,0,15,-15,15,Domestic
+3866,006,037,005,063,California,Los Angeles County,Arkansas,Independence County,3,18,-15,21,Domestic
+4473,006,037,031,153,California,Los Angeles County,Nebraska,Sarpy County,16,31,-15,47,Domestic
+4899,006,037,048,259,California,Los Angeles County,Texas,Kendall County,0,15,-15,15,Domestic
+3817,006,037,001,079,California,Los Angeles County,Alabama,Lawrence County,0,15,-15,15,Domestic
+4875,006,037,048,169,California,Los Angeles County,Texas,Garza County,0,15,-15,15,Domestic
+4725,006,037,041,049,California,Los Angeles County,Oregon,Morrow County,0,15,-15,15,Domestic
+4115,006,037,017,081,California,Los Angeles County,Illinois,Jefferson County,0,15,-15,15,Domestic
+4109,006,037,017,037,California,Los Angeles County,Illinois,DeKalb County,0,15,-15,15,Domestic
+4614,006,037,037,191,California,Los Angeles County,North Carolina,Wayne County,0,15,-15,15,Domestic
+4040,006,037,013,083,California,Los Angeles County,Georgia,Dade County,0,15,-15,15,Domestic
+5003,006,037,051,660,California,Los Angeles County,Virginia,Harrisonburg city,0,16,-16,16,Domestic
+4836,006,037,047,149,California,Los Angeles County,Tennessee,Rutherford County,37,53,-16,90,Domestic
+4682,006,037,040,041,California,Los Angeles County,Oklahoma,Delaware County,0,16,-16,16,Domestic
+4963,006,037,050,019,California,Los Angeles County,Vermont,Orleans County,0,16,-16,16,Domestic
+4494,006,037,033,017,California,Los Angeles County,New Hampshire,Strafford County,0,16,-16,16,Domestic
+4786,006,037,045,031,California,Los Angeles County,South Carolina,Darlington County,0,16,-16,16,Domestic
+4962,006,037,050,017,California,Los Angeles County,Vermont,Orange County,0,16,-16,16,Domestic
+4152,006,037,018,067,California,Los Angeles County,Indiana,Howard County,5,21,-16,26,Domestic
+3862,006,037,005,033,California,Los Angeles County,Arkansas,Crawford County,0,16,-16,16,Domestic
+4057,006,037,013,177,California,Los Angeles County,Georgia,Lee County,0,16,-16,16,Domestic
+4243,006,037,021,145,California,Los Angeles County,Kentucky,McCracken County,0,16,-16,16,Domestic
+4174,006,037,019,025,California,Los Angeles County,Iowa,Calhoun County,0,16,-16,16,Domestic
+4845,006,037,047,189,California,Los Angeles County,Tennessee,Wilson County,0,16,-16,16,Domestic
+3999,006,037,012,059,California,Los Angeles County,Florida,Holmes County,0,17,-17,17,Domestic
+4406,006,037,028,099,California,Los Angeles County,Mississippi,Neshoba County,0,17,-17,17,Domestic
+5025,006,037,053,019,California,Los Angeles County,Washington,Ferry County,15,32,-17,47,Domestic
+4161,006,037,018,127,California,Los Angeles County,Indiana,Porter County,44,61,-17,105,Domestic
+4476,006,037,032,001,California,Los Angeles County,Nevada,Churchill County,0,17,-17,17,Domestic
+5036,006,037,053,051,California,Los Angeles County,Washington,Pend Oreille County,0,17,-17,17,Domestic
+5016,006,037,051,830,California,Los Angeles County,Virginia,Williamsburg city,0,17,-17,17,Domestic
+4411,006,037,028,163,California,Los Angeles County,Mississippi,Yazoo County,0,17,-17,17,Domestic
+4834,006,037,047,145,California,Los Angeles County,Tennessee,Roane County,0,17,-17,17,Domestic
+5054,006,037,054,061,California,Los Angeles County,West Virginia,Monongalia County,0,17,-17,17,Domestic
+4270,006,037,022,099,California,Los Angeles County,Louisiana,St. Martin Parish,0,17,-17,17,Domestic
+4063,006,037,013,223,California,Los Angeles County,Georgia,Paulding County,6,23,-17,29,Domestic
+4092,006,037,016,043,California,Los Angeles County,Idaho,Fremont County,0,18,-18,18,Domestic
+3962,006,037,008,099,California,Los Angeles County,Colorado,Prowers County,0,18,-18,18,Domestic
+4264,006,037,022,063,California,Los Angeles County,Louisiana,Livingston Parish,10,28,-18,38,Domestic
+4546,006,037,036,051,California,Los Angeles County,New York,Livingston County,9,27,-18,36,Domestic
+4857,006,037,048,053,California,Los Angeles County,Texas,Burnet County,0,18,-18,18,Domestic
+4816,006,037,047,001,California,Los Angeles County,Tennessee,Anderson County,0,18,-18,18,Domestic
+4375,006,037,027,131,California,Los Angeles County,Minnesota,Rice County,0,18,-18,18,Domestic
+4566,006,037,036,105,California,Los Angeles County,New York,Sullivan County,0,18,-18,18,Domestic
+4911,006,037,048,347,California,Los Angeles County,Texas,Nacogdoches County,0,18,-18,18,Domestic
+4660,006,037,039,109,California,Los Angeles County,Ohio,Miami County,0,19,-19,19,Domestic
+4175,006,037,019,041,California,Los Angeles County,Iowa,Clay County,0,19,-19,19,Domestic
+4793,006,037,045,073,California,Los Angeles County,South Carolina,Oconee County,0,19,-19,19,Domestic
+4069,006,037,013,285,California,Los Angeles County,Georgia,Troup County,0,19,-19,19,Domestic
+4718,006,037,041,035,California,Los Angeles County,Oregon,Klamath County,5,24,-19,29,Domestic
+4355,006,037,027,019,California,Los Angeles County,Minnesota,Carver County,15,34,-19,49,Domestic
+4372,006,037,027,119,California,Los Angeles County,Minnesota,Polk County,0,19,-19,19,Domestic
+5123,006,037,072,137,California,Los Angeles County,Puerto Rico,Toa Baja Municipio,0,19,-19,19,Domestic
+5057,006,037,054,101,California,Los Angeles County,West Virginia,Webster County,0,19,-19,19,Domestic
+4410,006,037,028,151,California,Los Angeles County,Mississippi,Washington County,14,33,-19,47,Domestic
+4893,006,037,048,233,California,Los Angeles County,Texas,Hutchinson County,9,28,-19,37,Domestic
+4905,006,037,048,321,California,Los Angeles County,Texas,Matagorda County,0,20,-20,20,Domestic
+4621,006,037,038,061,California,Los Angeles County,North Dakota,Mountrail County,0,20,-20,20,Domestic
+3827,006,037,001,125,California,Los Angeles County,Alabama,Tuscaloosa County,8,28,-20,36,Domestic
+4706,006,037,041,003,California,Los Angeles County,Oregon,Benton County,89,109,-20,198,Domestic
+3950,006,037,008,049,California,Los Angeles County,Colorado,Grand County,0,20,-20,20,Domestic
+5018,006,037,053,001,California,Los Angeles County,Washington,Adams County,0,20,-20,20,Domestic
+4198,006,037,019,163,California,Los Angeles County,Iowa,Scott County,11,31,-20,42,Domestic
+4724,006,037,041,047,California,Los Angeles County,Oregon,Marion County,68,88,-20,156,Domestic
+4449,006,037,030,013,California,Los Angeles County,Montana,Cascade County,59,79,-20,138,Domestic
+4977,006,037,051,061,California,Los Angeles County,Virginia,Fauquier County,0,20,-20,20,Domestic
+4181,006,037,019,061,California,Los Angeles County,Iowa,Dubuque County,0,20,-20,20,Domestic
+4881,006,037,048,199,California,Los Angeles County,Texas,Hardin County,0,20,-20,20,Domestic
+4950,006,037,049,045,California,Los Angeles County,Utah,Tooele County,7,27,-20,34,Domestic
+4160,006,037,018,119,California,Los Angeles County,Indiana,Owen County,0,20,-20,20,Domestic
+3965,006,037,008,109,California,Los Angeles County,Colorado,Saguache County,0,21,-21,21,Domestic
+4797,006,037,045,085,California,Los Angeles County,South Carolina,Sumter County,0,21,-21,21,Domestic
+4587,006,037,037,055,California,Los Angeles County,North Carolina,Dare County,9,30,-21,39,Domestic
+3930,006,037,006,103,California,Los Angeles County,California,Tehama County,24,45,-21,69,Domestic
+3838,006,037,002,185,California,Los Angeles County,Alaska,North Slope Borough,0,21,-21,21,Domestic
+4016,006,037,012,107,California,Los Angeles County,Florida,Putnam County,0,21,-21,21,Domestic
+4870,006,037,048,151,California,Los Angeles County,Texas,Fisher County,0,21,-21,21,Domestic
+4912,006,037,048,349,California,Los Angeles County,Texas,Navarro County,5,26,-21,31,Domestic
+5011,006,037,051,740,California,Los Angeles County,Virginia,Portsmouth city,0,21,-21,21,Domestic
+4334,006,037,026,099,California,Los Angeles County,Michigan,Macomb County,119,140,-21,259,Domestic
+3874,006,037,005,103,California,Los Angeles County,Arkansas,Ouachita County,0,22,-22,22,Domestic
+3875,006,037,005,115,California,Los Angeles County,Arkansas,Pope County,0,22,-22,22,Domestic
+4568,006,037,036,111,California,Los Angeles County,New York,Ulster County,11,33,-22,44,Domestic
+4133,006,037,017,167,California,Los Angeles County,Illinois,Sangamon County,0,22,-22,22,Domestic
+4278,006,037,023,003,California,Los Angeles County,Maine,Aroostook County,0,22,-22,22,Domestic
+5103,006,037,056,021,California,Los Angeles County,Wyoming,Laramie County,11,33,-22,44,Domestic
+4700,006,037,040,131,California,Los Angeles County,Oklahoma,Rogers County,15,37,-22,52,Domestic
+5087,006,037,055,121,California,Los Angeles County,Wisconsin,Trempealeau County,0,22,-22,22,Domestic
+4221,006,037,020,155,California,Los Angeles County,Kansas,Reno County,0,22,-22,22,Domestic
+5118,006,037,072,075,California,Los Angeles County,Puerto Rico,Juana Díaz Municipio,0,22,-22,22,Domestic
+4544,006,037,036,045,California,Los Angeles County,New York,Jefferson County,0,22,-22,22,Domestic
+4173,006,037,019,021,California,Los Angeles County,Iowa,Buena Vista County,0,23,-23,23,Domestic
+4796,006,037,045,083,California,Los Angeles County,South Carolina,Spartanburg County,7,30,-23,37,Domestic
+4044,006,037,013,109,California,Los Angeles County,Georgia,Evans County,0,23,-23,23,Domestic
+4530,006,037,035,055,California,Los Angeles County,New Mexico,Taos County,0,23,-23,23,Domestic
+4024,006,037,012,133,California,Los Angeles County,Florida,Washington County,0,23,-23,23,Domestic
+4207,006,037,020,023,California,Los Angeles County,Kansas,Cheyenne County,0,23,-23,23,Domestic
+4868,006,037,048,139,California,Los Angeles County,Texas,Ellis County,4,27,-23,31,Domestic
+4885,006,037,048,213,California,Los Angeles County,Texas,Henderson County,0,23,-23,23,Domestic
+4376,006,037,027,137,California,Los Angeles County,Minnesota,St. Louis County,0,24,-24,24,Domestic
+4901,006,037,048,297,California,Los Angeles County,Texas,Live Oak County,0,24,-24,24,Domestic
+4481,006,037,032,017,California,Los Angeles County,Nevada,Lincoln County,0,24,-24,24,Domestic
+4093,006,037,016,055,California,Los Angeles County,Idaho,Kootenai County,122,146,-24,268,Domestic
+3872,006,037,005,085,California,Los Angeles County,Arkansas,Lonoke County,15,39,-24,54,Domestic
+5052,006,037,054,039,California,Los Angeles County,West Virginia,Kanawha County,0,24,-24,24,Domestic
+4637,006,037,039,029,California,Los Angeles County,Ohio,Columbiana County,0,24,-24,24,Domestic
+4230,006,037,020,209,California,Los Angeles County,Kansas,Wyandotte County,50,75,-25,125,Domestic
+4658,006,037,039,105,California,Los Angeles County,Ohio,Meigs County,0,25,-25,25,Domestic
+5107,006,037,056,037,California,Los Angeles County,Wyoming,Sweetwater County,54,79,-25,133,Domestic
+4202,006,037,019,191,California,Los Angeles County,Iowa,Winneshiek County,0,25,-25,25,Domestic
+3923,006,037,006,089,California,Los Angeles County,California,Shasta County,210,235,-25,445,Domestic
+4499,006,037,034,009,California,Los Angeles County,New Jersey,Cape May County,29,54,-25,83,Domestic
+4627,006,037,038,101,California,Los Angeles County,North Dakota,Ward County,0,25,-25,25,Domestic
+4806,006,037,046,081,California,Los Angeles County,South Dakota,Lawrence County,0,25,-25,25,Domestic
+4907,006,037,048,325,California,Los Angeles County,Texas,Medina County,0,25,-25,25,Domestic
+4332,006,037,026,091,California,Los Angeles County,Michigan,Lenawee County,0,26,-26,26,Domestic
+4017,006,037,012,109,California,Los Angeles County,Florida,St. Johns County,68,94,-26,162,Domestic
+4277,006,037,023,001,California,Los Angeles County,Maine,Androscoggin County,0,26,-26,26,Domestic
+4454,006,037,030,047,California,Los Angeles County,Montana,Lake County,14,40,-26,54,Domestic
+4890,006,037,048,227,California,Los Angeles County,Texas,Howard County,0,26,-26,26,Domestic
+4939,006,037,048,499,California,Los Angeles County,Texas,Wood County,0,26,-26,26,Domestic
+4650,006,037,039,081,California,Los Angeles County,Ohio,Jefferson County,0,27,-27,27,Domestic
+4365,006,037,027,079,California,Los Angeles County,Minnesota,Le Sueur County,0,27,-27,27,Domestic
+4071,006,037,013,295,California,Los Angeles County,Georgia,Walker County,0,27,-27,27,Domestic
+4919,006,037,048,389,California,Los Angeles County,Texas,Reeves County,0,27,-27,27,Domestic
+4124,006,037,017,103,California,Los Angeles County,Illinois,Lee County,0,27,-27,27,Domestic
+4075,006,037,015,007,California,Los Angeles County,Hawaii,Kauai County,67,95,-28,162,Domestic
+5085,006,037,055,111,California,Los Angeles County,Wisconsin,Sauk County,0,28,-28,28,Domestic
+4784,006,037,045,023,California,Los Angeles County,South Carolina,Chester County,0,28,-28,28,Domestic
+4884,006,037,048,209,California,Los Angeles County,Texas,Hays County,17,45,-28,62,Domestic
+4377,006,037,027,139,California,Los Angeles County,Minnesota,Scott County,8,37,-29,45,Domestic
+4956,006,037,050,001,California,Los Angeles County,Vermont,Addison County,17,46,-29,63,Domestic
+4047,006,037,013,115,California,Los Angeles County,Georgia,Floyd County,0,29,-29,29,Domestic
+4323,006,037,026,049,California,Los Angeles County,Michigan,Genesee County,51,80,-29,131,Domestic
+4729,006,037,041,061,California,Los Angeles County,Oregon,Union County,0,29,-29,29,Domestic
+4630,006,037,039,009,California,Los Angeles County,Ohio,Athens County,66,95,-29,161,Domestic
+5063,006,037,055,031,California,Los Angeles County,Wisconsin,Douglas County,0,30,-30,30,Domestic
+5038,006,037,053,055,California,Los Angeles County,Washington,San Juan County,6,36,-30,42,Domestic
+5093,006,037,055,135,California,Los Angeles County,Wisconsin,Waupaca County,0,30,-30,30,Domestic
+5124,006,037,072,139,California,Los Angeles County,Puerto Rico,Trujillo Alto Municipio,0,30,-30,30,Domestic
+4429,006,037,029,101,California,Los Angeles County,Missouri,Johnson County,0,30,-30,30,Domestic
+3997,006,037,012,055,California,Los Angeles County,Florida,Highlands County,0,30,-30,30,Domestic
+4457,006,037,030,063,California,Los Angeles County,Montana,Missoula County,21,51,-30,72,Domestic
+4428,006,037,029,099,California,Los Angeles County,Missouri,Jefferson County,8,38,-30,46,Domestic
+4013,006,037,012,101,California,Los Angeles County,Florida,Pasco County,0,30,-30,30,Domestic
+4025,006,037,013,001,California,Los Angeles County,Georgia,Appling County,0,30,-30,30,Domestic
+4432,006,037,029,119,California,Los Angeles County,Missouri,McDonald County,0,30,-30,30,Domestic
+3903,006,037,006,049,California,Los Angeles County,California,Modoc County,0,30,-30,30,Domestic
+4722,006,037,041,043,California,Los Angeles County,Oregon,Linn County,0,30,-30,30,Domestic
+3858,006,037,005,015,California,Los Angeles County,Arkansas,Carroll County,0,31,-31,31,Domestic
+4337,006,037,026,115,California,Los Angeles County,Michigan,Monroe County,0,31,-31,31,Domestic
+4330,006,037,026,077,California,Los Angeles County,Michigan,Kalamazoo County,18,49,-31,67,Domestic
+4558,006,037,036,083,California,Los Angeles County,New York,Rensselaer County,11,42,-31,53,Domestic
+4284,006,037,023,019,California,Los Angeles County,Maine,Penobscot County,7,38,-31,45,Domestic
+4938,006,037,048,497,California,Los Angeles County,Texas,Wise County,0,31,-31,31,Domestic
+4758,006,037,042,083,California,Los Angeles County,Pennsylvania,McKean County,0,31,-31,31,Domestic
+4591,006,037,037,071,California,Los Angeles County,North Carolina,Gaston County,0,31,-31,31,Domestic
+3819,006,037,001,087,California,Los Angeles County,Alabama,Macon County,0,31,-31,31,Domestic
+3928,006,037,006,099,California,Los Angeles County,California,Stanislaus County,550,582,-32,1132,Domestic
+4581,006,037,037,037,California,Los Angeles County,North Carolina,Chatham County,0,32,-32,32,Domestic
+4772,006,037,042,125,California,Los Angeles County,Pennsylvania,Washington County,0,32,-32,32,Domestic
+4904,006,037,048,315,California,Los Angeles County,Texas,Marion County,0,32,-32,32,Domestic
+4445,006,037,029,225,California,Los Angeles County,Missouri,Webster County,0,32,-32,32,Domestic
+4276,006,037,022,121,California,Los Angeles County,Louisiana,West Baton Rouge Parish,0,33,-33,33,Domestic
+4249,006,037,021,239,California,Los Angeles County,Kentucky,Woodford County,5,38,-33,43,Domestic
+3842,006,037,004,001,California,Los Angeles County,Arizona,Apache County,0,33,-33,33,Domestic
+4271,006,037,022,103,California,Los Angeles County,Louisiana,St. Tammany Parish,41,74,-33,115,Domestic
+4468,006,037,031,121,California,Los Angeles County,Nebraska,Merrick County,0,33,-33,33,Domestic
+4590,006,037,037,067,California,Los Angeles County,North Carolina,Forsyth County,38,72,-34,110,Domestic
+4855,006,037,048,049,California,Los Angeles County,Texas,Brown County,0,34,-34,34,Domestic
+4733,006,037,042,003,California,Los Angeles County,Pennsylvania,Allegheny County,341,375,-34,716,Domestic
+4664,006,037,039,129,California,Los Angeles County,Ohio,Pickaway County,0,34,-34,34,Domestic
+3982,006,037,011,001,California,Los Angeles County,District of Columbia,District of Columbia,1258,1292,-34,2550,Domestic
+4534,006,037,036,007,California,Los Angeles County,New York,Broome County,10,44,-34,54,Domestic
+4813,006,037,046,115,California,Los Angeles County,South Dakota,Spink County,0,35,-35,35,Domestic
+5065,006,037,055,035,California,Los Angeles County,Wisconsin,Eau Claire County,0,35,-35,35,Domestic
+4822,006,037,047,043,California,Los Angeles County,Tennessee,Dickson County,0,36,-36,36,Domestic
+4200,006,037,019,169,California,Los Angeles County,Iowa,Story County,24,60,-36,84,Domestic
+4021,006,037,012,117,California,Los Angeles County,Florida,Seminole County,120,156,-36,276,Domestic
+4203,006,037,019,193,California,Los Angeles County,Iowa,Woodbury County,0,36,-36,36,Domestic
+4474,006,037,031,159,California,Los Angeles County,Nebraska,Seward County,0,36,-36,36,Domestic
+4394,006,037,028,049,California,Los Angeles County,Mississippi,Hinds County,27,63,-36,90,Domestic
+4420,006,037,029,051,California,Los Angeles County,Missouri,Cole County,10,46,-36,56,Domestic
+4400,006,037,028,081,California,Los Angeles County,Mississippi,Lee County,0,36,-36,36,Domestic
+4237,006,037,021,093,California,Los Angeles County,Kentucky,Hardin County,0,37,-37,37,Domestic
+3961,006,037,008,097,California,Los Angeles County,Colorado,Pitkin County,39,76,-37,115,Domestic
+4998,006,037,051,550,California,Los Angeles County,Virginia,Chesapeake city,30,67,-37,97,Domestic
+3883,006,037,006,005,California,Los Angeles County,California,Amador County,64,101,-37,165,Domestic
+4799,006,037,046,011,California,Los Angeles County,South Dakota,Brookings County,0,37,-37,37,Domestic
+3849,006,037,004,017,California,Los Angeles County,Arizona,Navajo County,0,37,-37,37,Domestic
+4935,006,037,048,479,California,Los Angeles County,Texas,Webb County,0,37,-37,37,Domestic
+4823,006,037,047,063,California,Los Angeles County,Tennessee,Hamblen County,0,37,-37,37,Domestic
+4677,006,037,040,019,California,Los Angeles County,Oklahoma,Carter County,0,37,-37,37,Domestic
+5006,006,037,051,683,California,Los Angeles County,Virginia,Manassas city,10,47,-37,57,Domestic
+5012,006,037,051,760,California,Los Angeles County,Virginia,Richmond city,65,103,-38,168,Domestic
+3948,006,037,008,043,California,Los Angeles County,Colorado,Fremont County,12,50,-38,62,Domestic
+4840,006,037,047,163,California,Los Angeles County,Tennessee,Sullivan County,17,55,-38,72,Domestic
+4597,006,037,037,097,California,Los Angeles County,North Carolina,Iredell County,32,70,-38,102,Domestic
+4204,006,037,020,007,California,Los Angeles County,Kansas,Barber County,0,39,-39,39,Domestic
+4525,006,037,035,031,California,Los Angeles County,New Mexico,McKinley County,0,39,-39,39,Domestic
+4397,006,037,028,071,California,Los Angeles County,Mississippi,Lafayette County,0,40,-40,40,Domestic
+5046,006,037,053,075,California,Los Angeles County,Washington,Whitman County,97,137,-40,234,Domestic
+4780,006,037,045,003,California,Los Angeles County,South Carolina,Aiken County,0,40,-40,40,Domestic
+4401,006,037,028,087,California,Los Angeles County,Mississippi,Lowndes County,0,41,-41,41,Domestic
+4393,006,037,028,047,California,Los Angeles County,Mississippi,Harrison County,44,85,-41,129,Domestic
+4151,006,037,018,063,California,Los Angeles County,Indiana,Hendricks County,27,68,-41,95,Domestic
+4926,006,037,048,441,California,Los Angeles County,Texas,Taylor County,43,84,-41,127,Domestic
+4827,006,037,047,105,California,Los Angeles County,Tennessee,Loudon County,0,41,-41,41,Domestic
+4455,006,037,030,049,California,Los Angeles County,Montana,Lewis and Clark County,10,51,-41,61,Domestic
+4234,006,037,021,029,California,Los Angeles County,Kentucky,Bullitt County,0,42,-42,42,Domestic
+4247,006,037,021,227,California,Los Angeles County,Kentucky,Warren County,9,51,-42,60,Domestic
+5117,006,037,072,071,California,Los Angeles County,Puerto Rico,Isabela Municipio,0,42,-42,42,Domestic
+4274,006,037,022,115,California,Los Angeles County,Louisiana,Vernon Parish,0,42,-42,42,Domestic
+4751,006,037,042,063,California,Los Angeles County,Pennsylvania,Indiana County,0,43,-43,43,Domestic
+4978,006,037,051,069,California,Los Angeles County,Virginia,Frederick County,2,45,-43,47,Domestic
+4084,006,037,016,019,California,Los Angeles County,Idaho,Bonneville County,0,43,-43,43,Domestic
+4351,006,037,027,003,California,Los Angeles County,Minnesota,Anoka County,22,66,-44,88,Domestic
+5104,006,037,056,023,California,Los Angeles County,Wyoming,Lincoln County,0,44,-44,44,Domestic
+5009,006,037,051,710,California,Los Angeles County,Virginia,Norfolk city,30,74,-44,104,Domestic
+4810,006,037,046,101,California,Los Angeles County,South Dakota,Moody County,0,44,-44,44,Domestic
+4050,006,037,013,123,California,Los Angeles County,Georgia,Gilmer County,0,45,-45,45,Domestic
+4708,006,037,041,007,California,Los Angeles County,Oregon,Clatsop County,18,63,-45,81,Domestic
+4039,006,037,013,077,California,Los Angeles County,Georgia,Coweta County,0,45,-45,45,Domestic
+4144,006,037,018,029,California,Los Angeles County,Indiana,Dearborn County,0,45,-45,45,Domestic
+4641,006,037,039,041,California,Los Angeles County,Ohio,Delaware County,19,64,-45,83,Domestic
+4850,006,037,048,037,California,Los Angeles County,Texas,Bowie County,61,106,-45,167,Domestic
+4952,006,037,049,051,California,Los Angeles County,Utah,Wasatch County,0,45,-45,45,Domestic
+4594,006,037,037,087,California,Los Angeles County,North Carolina,Haywood County,0,45,-45,45,Domestic
+3824,006,037,001,103,California,Los Angeles County,Alabama,Morgan County,20,66,-46,86,Domestic
+5070,006,037,055,063,California,Los Angeles County,Wisconsin,La Crosse County,13,59,-46,72,Domestic
+3878,006,037,005,125,California,Los Angeles County,Arkansas,Saline County,0,46,-46,46,Domestic
+4020,006,037,012,115,California,Los Angeles County,Florida,Sarasota County,65,111,-46,176,Domestic
+4014,006,037,012,103,California,Los Angeles County,Florida,Pinellas County,289,336,-47,625,Domestic
+4989,006,037,051,179,California,Los Angeles County,Virginia,Stafford County,9,56,-47,65,Domestic
+4004,006,037,012,081,California,Los Angeles County,Florida,Manatee County,49,96,-47,145,Domestic
+3833,006,037,002,110,California,Los Angeles County,Alaska,Juneau City and Borough,8,56,-48,64,Domestic
+3913,006,037,006,069,California,Los Angeles County,California,San Benito County,24,72,-48,96,Domestic
+4792,006,037,045,063,California,Los Angeles County,South Carolina,Lexington County,19,68,-49,87,Domestic
+4242,006,037,021,123,California,Los Angeles County,Kentucky,Larue County,0,49,-49,49,Domestic
+3807,006,037,001,015,California,Los Angeles County,Alabama,Calhoun County,9,58,-49,67,Domestic
+4244,006,037,021,173,California,Los Angeles County,Kentucky,Montgomery County,0,49,-49,49,Domestic
+4310,006,037,025,021,California,Los Angeles County,Massachusetts,Norfolk County,278,327,-49,605,Domestic
+4127,006,037,017,115,California,Los Angeles County,Illinois,Macon County,0,49,-49,49,Domestic
+4528,006,037,035,045,California,Los Angeles County,New Mexico,San Juan County,0,49,-49,49,Domestic
+4644,006,037,039,055,California,Los Angeles County,Ohio,Geauga County,10,59,-49,69,Domestic
+3900,006,037,006,043,California,Los Angeles County,California,Mariposa County,0,50,-50,50,Domestic
+4619,006,037,038,035,California,Los Angeles County,North Dakota,Grand Forks County,0,50,-50,50,Domestic
+4371,006,037,027,113,California,Los Angeles County,Minnesota,Pennington County,0,50,-50,50,Domestic
+3968,006,037,008,117,California,Los Angeles County,Colorado,Summit County,4,55,-51,59,Domestic
+4755,006,037,042,073,California,Los Angeles County,Pennsylvania,Lawrence County,0,52,-52,52,Domestic
+4391,006,037,028,035,California,Los Angeles County,Mississippi,Forrest County,0,52,-52,52,Domestic
+5023,006,037,053,015,California,Los Angeles County,Washington,Cowlitz County,0,52,-52,52,Domestic
+4716,006,037,041,031,California,Los Angeles County,Oregon,Jefferson County,0,52,-52,52,Domestic
+4305,006,037,025,007,California,Los Angeles County,Massachusetts,Dukes County,0,53,-53,53,Domestic
+4076,006,037,015,009,California,Los Angeles County,Hawaii,Maui County,127,180,-53,307,Domestic
+4272,006,037,022,105,California,Los Angeles County,Louisiana,Tangipahoa Parish,0,53,-53,53,Domestic
+4263,006,037,022,061,California,Los Angeles County,Louisiana,Lincoln Parish,7,60,-53,67,Domestic
+3972,006,037,009,003,California,Los Angeles County,Connecticut,Hartford County,74,127,-53,201,Domestic
+3931,006,037,006,105,California,Los Angeles County,California,Trinity County,0,53,-53,53,Domestic
+3887,006,037,006,015,California,Los Angeles County,California,Del Norte County,32,86,-54,118,Domestic
+5073,006,037,055,079,California,Los Angeles County,Wisconsin,Milwaukee County,236,291,-55,527,Domestic
+4303,006,037,025,003,California,Los Angeles County,Massachusetts,Berkshire County,28,83,-55,111,Domestic
+4680,006,037,040,031,California,Los Angeles County,Oklahoma,Comanche County,50,105,-55,155,Domestic
+3811,006,037,001,045,California,Los Angeles County,Alabama,Dale County,0,56,-56,56,Domestic
+4991,006,037,051,191,California,Los Angeles County,Virginia,Washington County,0,56,-56,56,Domestic
+4867,006,037,048,135,California,Los Angeles County,Texas,Ector County,0,56,-56,56,Domestic
+4158,006,037,018,105,California,Los Angeles County,Indiana,Monroe County,48,104,-56,152,Domestic
+4123,006,037,017,101,California,Los Angeles County,Illinois,Lawrence County,0,56,-56,56,Domestic
+4388,006,037,028,011,California,Los Angeles County,Mississippi,Bolivar County,0,56,-56,56,Domestic
+4287,006,037,023,031,California,Los Angeles County,Maine,York County,9,66,-57,75,Domestic
+4746,006,037,042,045,California,Los Angeles County,Pennsylvania,Delaware County,49,106,-57,155,Domestic
+5064,006,037,055,033,California,Los Angeles County,Wisconsin,Dunn County,0,58,-58,58,Domestic
+4384,006,037,027,163,California,Los Angeles County,Minnesota,Washington County,115,173,-58,288,Domestic
+4596,006,037,037,093,California,Los Angeles County,North Carolina,Hoke County,0,58,-58,58,Domestic
+4861,006,037,048,091,California,Los Angeles County,Texas,Comal County,42,100,-58,142,Domestic
+4676,006,037,040,017,California,Los Angeles County,Oklahoma,Canadian County,0,58,-58,58,Domestic
+4053,006,037,013,137,California,Los Angeles County,Georgia,Habersham County,0,59,-59,59,Domestic
+4837,006,037,047,155,California,Los Angeles County,Tennessee,Sevier County,0,59,-59,59,Domestic
+4527,006,037,035,043,California,Los Angeles County,New Mexico,Sandoval County,16,75,-59,91,Domestic
+4191,006,037,019,127,California,Los Angeles County,Iowa,Marshall County,10,69,-59,79,Domestic
+4403,006,037,028,091,California,Los Angeles County,Mississippi,Marion County,8,67,-59,75,Domestic
+3981,006,037,010,005,California,Los Angeles County,Delaware,Sussex County,0,60,-60,60,Domestic
+4402,006,037,028,089,California,Los Angeles County,Mississippi,Madison County,10,70,-60,80,Domestic
+4928,006,037,048,451,California,Los Angeles County,Texas,Tom Green County,0,61,-61,61,Domestic
+4038,006,037,013,073,California,Los Angeles County,Georgia,Columbia County,0,62,-62,62,Domestic
+4576,006,037,037,021,California,Los Angeles County,North Carolina,Buncombe County,29,91,-62,120,Domestic
+4832,006,037,047,125,California,Los Angeles County,Tennessee,Montgomery County,7,69,-62,76,Domestic
+4723,006,037,041,045,California,Los Angeles County,Oregon,Malheur County,0,62,-62,62,Domestic
+3823,006,037,001,101,California,Los Angeles County,Alabama,Montgomery County,89,151,-62,240,Domestic
+3813,006,037,001,055,California,Los Angeles County,Alabama,Etowah County,0,63,-63,63,Domestic
+4653,006,037,039,089,California,Los Angeles County,Ohio,Licking County,11,74,-63,85,Domestic
+4646,006,037,039,059,California,Los Angeles County,Ohio,Guernsey County,0,65,-65,65,Domestic
+4479,006,037,032,007,California,Los Angeles County,Nevada,Elko County,13,78,-65,91,Domestic
+4419,006,037,029,047,California,Los Angeles County,Missouri,Clay County,51,116,-65,167,Domestic
+4971,006,037,051,013,California,Los Angeles County,Virginia,Arlington County,206,271,-65,477,Domestic
+4006,006,037,012,085,California,Los Angeles County,Florida,Martin County,0,65,-65,65,Domestic
+4293,006,037,024,025,California,Los Angeles County,Maryland,Harford County,0,66,-66,66,Domestic
+4636,006,037,039,027,California,Los Angeles County,Ohio,Clinton County,0,66,-66,66,Domestic
+4710,006,037,041,013,California,Los Angeles County,Oregon,Crook County,0,66,-66,66,Domestic
+4807,006,037,046,083,California,Los Angeles County,South Dakota,Lincoln County,28,94,-66,122,Domestic
+4973,006,037,051,033,California,Los Angeles County,Virginia,Caroline County,0,66,-66,66,Domestic
+3906,006,037,006,055,California,Los Angeles County,California,Napa County,186,253,-67,439,Domestic
+4902,006,037,048,303,California,Los Angeles County,Texas,Lubbock County,0,67,-67,67,Domestic
+4570,006,037,036,117,California,Los Angeles County,New York,Wayne County,0,68,-68,68,Domestic
+4642,006,037,039,045,California,Los Angeles County,Ohio,Fairfield County,0,68,-68,68,Domestic
+5014,006,037,051,800,California,Los Angeles County,Virginia,Suffolk city,0,69,-69,69,Domestic
+4821,006,037,047,037,California,Los Angeles County,Tennessee,Davidson County,472,541,-69,1013,Domestic
+4440,006,037,029,183,California,Los Angeles County,Missouri,St. Charles County,27,97,-70,124,Domestic
+4933,006,037,048,471,California,Los Angeles County,Texas,Walker County,0,70,-70,70,Domestic
+4216,006,037,020,091,California,Los Angeles County,Kansas,Johnson County,128,198,-70,326,Domestic
+4482,006,037,032,019,California,Los Angeles County,Nevada,Lyon County,0,70,-70,70,Domestic
+4946,006,037,049,027,California,Los Angeles County,Utah,Millard County,0,70,-70,70,Domestic
+4744,006,037,042,041,California,Los Angeles County,Pennsylvania,Cumberland County,20,92,-72,112,Domestic
+4138,006,037,017,197,California,Los Angeles County,Illinois,Will County,49,121,-72,170,Domestic
+3925,006,037,006,093,California,Los Angeles County,California,Siskiyou County,17,89,-72,106,Domestic
+4386,006,037,028,003,California,Los Angeles County,Mississippi,Alcorn County,0,72,-72,72,Domestic
+4493,006,037,033,015,California,Los Angeles County,New Hampshire,Rockingham County,54,128,-74,182,Domestic
+4483,006,037,032,023,California,Los Angeles County,Nevada,Nye County,66,140,-74,206,Domestic
+3974,006,037,009,007,California,Los Angeles County,Connecticut,Middlesex County,0,76,-76,76,Domestic
+3843,006,037,004,003,California,Los Angeles County,Arizona,Cochise County,75,151,-76,226,Domestic
+4235,006,037,021,047,California,Los Angeles County,Kentucky,Christian County,18,95,-77,113,Domestic
+3846,006,037,004,009,California,Los Angeles County,Arizona,Graham County,0,77,-77,77,Domestic
+3857,006,037,005,007,California,Los Angeles County,Arkansas,Benton County,178,255,-77,433,Domestic
+5047,006,037,053,077,California,Los Angeles County,Washington,Yakima County,13,90,-77,103,Domestic
+4921,006,037,048,397,California,Los Angeles County,Texas,Rockwall County,0,77,-77,77,Domestic
+4562,006,037,036,091,California,Los Angeles County,New York,Saratoga County,0,77,-77,77,Domestic
+5044,006,037,053,071,California,Los Angeles County,Washington,Walla Walla County,26,104,-78,130,Domestic
+4577,006,037,037,025,California,Los Angeles County,North Carolina,Cabarrus County,0,78,-78,78,Domestic
+4593,006,037,037,085,California,Los Angeles County,North Carolina,Harnett County,0,79,-79,79,Domestic
+4308,006,037,025,015,California,Los Angeles County,Massachusetts,Hampshire County,75,154,-79,229,Domestic
+4117,006,037,017,089,California,Los Angeles County,Illinois,Kane County,85,165,-80,250,Domestic
+4878,006,037,048,183,California,Los Angeles County,Texas,Gregg County,0,80,-80,80,Domestic
+3816,006,037,001,073,California,Los Angeles County,Alabama,Jefferson County,72,153,-81,225,Domestic
+4582,006,037,037,041,California,Los Angeles County,North Carolina,Chowan County,0,82,-82,82,Domestic
+4139,006,037,017,201,California,Los Angeles County,Illinois,Winnebago County,71,153,-82,224,Domestic
+3941,006,037,008,014,California,Los Angeles County,Colorado,Broomfield County,0,83,-83,83,Domestic
+4300,006,037,024,047,California,Los Angeles County,Maryland,Worcester County,0,83,-83,83,Domestic
+4478,006,037,032,005,California,Los Angeles County,Nevada,Douglas County,0,83,-83,83,Domestic
+4654,006,037,039,093,California,Los Angeles County,Ohio,Lorain County,7,90,-83,97,Domestic
+4073,006,037,015,001,California,Los Angeles County,Hawaii,Hawaii County,113,197,-84,310,Domestic
+4895,006,037,048,245,California,Los Angeles County,Texas,Jefferson County,0,84,-84,84,Domestic
+4413,006,037,029,019,California,Los Angeles County,Missouri,Boone County,17,101,-84,118,Domestic
+4713,006,037,041,019,California,Los Angeles County,Oregon,Douglas County,65,150,-85,215,Domestic
+4087,006,037,016,027,California,Los Angeles County,Idaho,Canyon County,75,161,-86,236,Domestic
+4547,006,037,036,055,California,Los Angeles County,New York,Monroe County,117,204,-87,321,Domestic
+3953,006,037,008,067,California,Los Angeles County,Colorado,La Plata County,0,89,-89,89,Domestic
+4253,006,037,022,019,California,Los Angeles County,Louisiana,Calcasieu Parish,54,146,-92,200,Domestic
+4787,006,037,045,035,California,Los Angeles County,South Carolina,Dorchester County,0,93,-93,93,Domestic
+4510,006,037,034,033,California,Los Angeles County,New Jersey,Salem County,0,93,-93,93,Domestic
+3963,006,037,008,101,California,Los Angeles County,Colorado,Pueblo County,7,100,-93,107,Domestic
+4757,006,037,042,079,California,Los Angeles County,Pennsylvania,Luzerne County,57,151,-94,208,Domestic
+4294,006,037,024,027,California,Los Angeles County,Maryland,Howard County,110,205,-95,315,Domestic
+5031,006,037,053,035,California,Los Angeles County,Washington,Kitsap County,72,167,-95,239,Domestic
+4923,006,037,048,423,California,Los Angeles County,Texas,Smith County,0,97,-97,97,Domestic
+3805,006,037,001,003,California,Los Angeles County,Alabama,Baldwin County,16,113,-97,129,Domestic
+4782,006,037,045,015,California,Los Angeles County,South Carolina,Berkeley County,9,107,-98,116,Domestic
+4945,006,037,049,021,California,Los Angeles County,Utah,Iron County,6,105,-99,111,Domestic
+4789,006,037,045,045,California,Los Angeles County,South Carolina,Greenville County,123,223,-100,346,Domestic
+3845,006,037,004,007,California,Los Angeles County,Arizona,Gila County,23,123,-100,146,Domestic
+4099,006,037,016,075,California,Los Angeles County,Idaho,Payette County,34,135,-101,169,Domestic
+3904,006,037,006,051,California,Los Angeles County,California,Mono County,44,145,-101,189,Domestic
+3820,006,037,001,089,California,Los Angeles County,Alabama,Madison County,2,104,-102,106,Domestic
+4613,006,037,037,183,California,Los Angeles County,North Carolina,Wake County,355,458,-103,813,Domestic
+4981,006,037,051,085,California,Los Angeles County,Virginia,Hanover County,38,141,-103,179,Domestic
+5027,006,037,053,025,California,Los Angeles County,Washington,Grant County,0,105,-105,105,Domestic
+4526,006,037,035,035,California,Los Angeles County,New Mexico,Otero County,72,178,-106,250,Domestic
+4880,006,037,048,195,California,Los Angeles County,Texas,Hansford County,0,108,-108,108,Domestic
+4131,006,037,017,161,California,Los Angeles County,Illinois,Rock Island County,0,108,-108,108,Domestic
+4309,006,037,025,017,California,Los Angeles County,Massachusetts,Middlesex County,1040,1149,-109,2189,Domestic
+4717,006,037,041,033,California,Los Angeles County,Oregon,Josephine County,22,131,-109,153,Domestic
+3896,006,037,006,033,California,Los Angeles County,California,Lake County,24,134,-110,158,Domestic
+4396,006,037,028,059,California,Los Angeles County,Mississippi,Jackson County,0,112,-112,112,Domestic
+4015,006,037,012,105,California,Los Angeles County,Florida,Polk County,98,210,-112,308,Domestic
+4754,006,037,042,071,California,Los Angeles County,Pennsylvania,Lancaster County,49,161,-112,210,Domestic
+3893,006,037,006,027,California,Los Angeles County,California,Inyo County,49,162,-113,211,Domestic
+4043,006,037,013,097,California,Los Angeles County,Georgia,Douglas County,9,123,-114,132,Domestic
+3901,006,037,006,045,California,Los Angeles County,California,Mendocino County,29,143,-114,172,Domestic
+4778,006,037,044,007,California,Los Angeles County,Rhode Island,Providence County,156,270,-114,426,Domestic
+3919,006,037,006,081,California,Los Angeles County,California,San Mateo County,1263,1381,-118,2644,Domestic
+4096,006,037,016,065,California,Los Angeles County,Idaho,Madison County,102,222,-120,324,Domestic
+4491,006,037,033,011,California,Los Angeles County,New Hampshire,Hillsborough County,45,165,-120,210,Domestic
+3886,006,037,006,013,California,Los Angeles County,California,Contra Costa County,1681,1803,-122,3484,Domestic
+4046,006,037,013,113,California,Los Angeles County,Georgia,Fayette County,10,132,-122,142,Domestic
+4002,006,037,012,071,California,Los Angeles County,Florida,Lee County,65,193,-128,258,Domestic
+4727,006,037,041,053,California,Los Angeles County,Oregon,Polk County,8,138,-130,146,Domestic
+5043,006,037,053,067,California,Los Angeles County,Washington,Thurston County,293,423,-130,716,Domestic
+4518,006,037,035,013,California,Los Angeles County,New Mexico,Doña Ana County,38,168,-130,206,Domestic
+4438,006,037,029,169,California,Los Angeles County,Missouri,Pulaski County,17,150,-133,167,Domestic
+3832,006,037,002,090,California,Los Angeles County,Alaska,Fairbanks North Star Borough,27,161,-134,188,Domestic
+4297,006,037,024,033,California,Los Angeles County,Maryland,Prince George's County,211,347,-136,558,Domestic
+4668,006,037,039,151,California,Los Angeles County,Ohio,Stark County,5,142,-137,147,Domestic
+4925,006,037,048,439,California,Los Angeles County,Texas,Tarrant County,948,1085,-137,2033,Domestic
+5015,006,037,051,810,California,Los Angeles County,Virginia,Virginia Beach city,142,280,-138,422,Domestic
+4497,006,037,034,005,California,Los Angeles County,New Jersey,Burlington County,11,152,-141,163,Domestic
+4260,006,037,022,051,California,Los Angeles County,Louisiana,Jefferson Parish,38,179,-141,217,Domestic
+4863,006,037,048,099,California,Los Angeles County,Texas,Coryell County,0,142,-142,142,Domestic
+4781,006,037,045,013,California,Los Angeles County,South Carolina,Beaufort County,19,161,-142,180,Domestic
+4589,006,037,037,063,California,Los Angeles County,North Carolina,Durham County,96,239,-143,335,Domestic
+3880,006,037,005,139,California,Los Angeles County,Arkansas,Union County,0,144,-144,144,Domestic
+4066,006,037,013,247,California,Los Angeles County,Georgia,Rockdale County,0,144,-144,144,Domestic
+4065,006,037,013,245,California,Los Angeles County,Georgia,Richmond County,48,196,-148,244,Domestic
+4629,006,037,039,003,California,Los Angeles County,Ohio,Allen County,0,151,-151,151,Domestic
+3970,006,037,008,123,California,Los Angeles County,Colorado,Weld County,91,244,-153,335,Domestic
+5022,006,037,053,011,California,Los Angeles County,Washington,Clark County,380,535,-155,915,Domestic
+4156,006,037,018,097,California,Los Angeles County,Indiana,Marion County,291,446,-155,737,Domestic
+4691,006,037,040,109,California,Los Angeles County,Oklahoma,Oklahoma County,554,711,-157,1265,Domestic
+4091,006,037,016,041,California,Los Angeles County,Idaho,Franklin County,0,157,-157,157,Domestic
+4409,006,037,028,135,California,Los Angeles County,Mississippi,Tallahatchie County,9,168,-159,177,Domestic
+4061,006,037,013,215,California,Los Angeles County,Georgia,Muscogee County,15,176,-161,191,Domestic
+4848,006,037,048,027,California,Los Angeles County,Texas,Bell County,54,215,-161,269,Domestic
+4915,006,037,048,367,California,Los Angeles County,Texas,Parker County,0,165,-165,165,Domestic
+4983,006,037,051,107,California,Los Angeles County,Virginia,Loudoun County,64,229,-165,293,Domestic
+3993,006,037,012,033,California,Los Angeles County,Florida,Escambia County,98,265,-167,363,Domestic
+4504,006,037,034,021,California,Los Angeles County,New Jersey,Mercer County,84,258,-174,342,Domestic
+4732,006,037,041,071,California,Los Angeles County,Oregon,Yamhill County,22,200,-178,222,Domestic
+4466,006,037,031,109,California,Los Angeles County,Nebraska,Lancaster County,56,234,-178,290,Domestic
+3940,006,037,008,013,California,Los Angeles County,Colorado,Boulder County,326,504,-178,830,Domestic
+3852,006,037,004,023,California,Los Angeles County,Arizona,Santa Cruz County,20,200,-180,220,Domestic
+4586,006,037,037,051,California,Los Angeles County,North Carolina,Cumberland County,0,183,-183,183,Domestic
+4602,006,037,037,135,California,Los Angeles County,North Carolina,Orange County,3,187,-184,190,Domestic
+5071,006,037,055,073,California,Los Angeles County,Wisconsin,Marathon County,0,184,-184,184,Domestic
+4464,006,037,031,055,California,Los Angeles County,Nebraska,Douglas County,60,245,-185,305,Domestic
+4427,006,037,029,097,California,Los Angeles County,Missouri,Jasper County,0,188,-188,188,Domestic
+5033,006,037,053,041,California,Los Angeles County,Washington,Lewis County,22,213,-191,235,Domestic
+3954,006,037,008,069,California,Los Angeles County,Colorado,Larimer County,160,354,-194,514,Domestic
+4656,006,037,039,099,California,Los Angeles County,Ohio,Mahoning County,0,194,-194,194,Domestic
+4018,006,037,012,111,California,Los Angeles County,Florida,St. Lucie County,108,303,-195,411,Domestic
+4224,006,037,020,169,California,Los Angeles County,Kansas,Saline County,14,211,-197,225,Domestic
+4903,006,037,048,309,California,Los Angeles County,Texas,McLennan County,35,234,-199,269,Domestic
+3881,006,037,005,143,California,Los Angeles County,Arkansas,Washington County,84,296,-212,380,Domestic
+4077,006,037,016,001,California,Los Angeles County,Idaho,Ada County,163,376,-213,539,Domestic
+5040,006,037,053,061,California,Los Angeles County,Washington,Snohomish County,392,606,-214,998,Domestic
+5021,006,037,053,009,California,Los Angeles County,Washington,Clallam County,37,253,-216,290,Domestic
+3933,006,037,006,109,California,Los Angeles County,California,Tuolumne County,174,391,-217,565,Domestic
+4485,006,037,032,031,California,Los Angeles County,Nevada,Washoe County,631,863,-232,1494,Domestic
+3927,006,037,006,097,California,Los Angeles County,California,Sonoma County,748,986,-238,1734,Domestic
+4936,006,037,048,485,California,Los Angeles County,Texas,Wichita County,10,251,-241,261,Domestic
+4452,006,037,030,029,California,Los Angeles County,Montana,Flathead County,31,276,-245,307,Domestic
+4910,006,037,048,339,California,Los Angeles County,Texas,Montgomery County,44,293,-249,337,Domestic
+4052,006,037,013,135,California,Los Angeles County,Georgia,Gwinnett County,326,575,-249,901,Domestic
+3992,006,037,012,031,California,Los Angeles County,Florida,Duval County,188,438,-250,626,Domestic
+4913,006,037,048,355,California,Los Angeles County,Texas,Nueces County,72,328,-256,400,Domestic
+4860,006,037,048,085,California,Los Angeles County,Texas,Collin County,427,686,-259,1113,Domestic
+4612,006,037,037,179,California,Los Angeles County,North Carolina,Union County,0,274,-274,274,Domestic
+4947,006,037,049,035,California,Los Angeles County,Utah,Salt Lake County,779,1057,-278,1836,Domestic
+3888,006,037,006,017,California,Los Angeles County,California,El Dorado County,196,474,-278,670,Domestic
+4132,006,037,017,163,California,Los Angeles County,Illinois,St. Clair County,25,307,-282,332,Domestic
+3897,006,037,006,035,California,Los Angeles County,California,Lassen County,166,453,-287,619,Domestic
+5037,006,037,053,053,California,Los Angeles County,Washington,Pierce County,363,663,-300,1026,Domestic
+4363,006,037,027,053,California,Los Angeles County,Minnesota,Hennepin County,416,720,-304,1136,Domestic
+4703,006,037,040,143,California,Los Angeles County,Oklahoma,Tulsa County,170,487,-317,657,Domestic
+3932,006,037,006,107,California,Los Angeles County,California,Tulare County,901,1219,-318,2120,Domestic
+3854,006,037,004,027,California,Los Angeles County,Arizona,Yuma County,78,398,-320,476,Domestic
+3884,006,037,006,007,California,Los Angeles County,California,Butte County,231,556,-325,787,Domestic
+4225,006,037,020,173,California,Los Angeles County,Kansas,Sedgwick County,112,447,-335,559,Domestic
+5041,006,037,053,063,California,Los Angeles County,Washington,Spokane County,276,612,-336,888,Domestic
+4548,006,037,036,059,California,Los Angeles County,New York,Nassau County,202,542,-340,744,Domestic
+3944,006,037,008,031,California,Los Angeles County,Colorado,Denver County,860,1204,-344,2064,Domestic
+3926,006,037,006,095,California,Los Angeles County,California,Solano County,628,978,-350,1606,Domestic
+4279,006,037,023,005,California,Los Angeles County,Maine,Cumberland County,30,382,-352,412,Domestic
+3916,006,037,006,075,California,Los Angeles County,California,San Francisco County,3726,4081,-355,7807,Domestic
+4844,006,037,047,187,California,Los Angeles County,Tennessee,Williamson County,177,532,-355,709,Domestic
+4720,006,037,041,039,California,Los Angeles County,Oregon,Lane County,147,555,-408,702,Domestic
+3905,006,037,006,053,California,Los Angeles County,California,Monterey County,868,1280,-412,2148,Domestic
+3853,006,037,004,025,California,Los Angeles County,Arizona,Yavapai County,135,550,-415,685,Domestic
+4795,006,037,045,079,California,Los Angeles County,South Carolina,Richland County,101,519,-418,620,Domestic
+3899,006,037,006,041,California,Los Angeles County,California,Marin County,750,1180,-430,1930,Domestic
+4937,006,037,048,491,California,Los Angeles County,Texas,Williamson County,108,548,-440,656,Domestic
+4929,006,037,048,453,California,Los Angeles County,Texas,Travis County,666,1108,-442,1774,Domestic
+3937,006,037,008,001,California,Los Angeles County,Colorado,Adams County,23,467,-444,490,Domestic
+4951,006,037,049,049,California,Los Angeles County,Utah,Utah County,316,771,-455,1087,Domestic
+3917,006,037,006,077,California,Los Angeles County,California,San Joaquin County,351,830,-479,1181,Domestic
+4037,006,037,013,067,California,Los Angeles County,Georgia,Cobb County,191,713,-522,904,Domestic
+4849,006,037,048,029,California,Los Angeles County,Texas,Bexar County,620,1201,-581,1821,Domestic
+3844,006,037,004,005,California,Los Angeles County,Arizona,Coconino County,86,693,-607,779,Domestic
+4712,006,037,041,017,California,Los Angeles County,Oregon,Deschutes County,35,661,-626,696,Domestic
+4942,006,037,049,011,California,Los Angeles County,Utah,Davis County,65,709,-644,774,Domestic
+3848,006,037,004,015,California,Los Angeles County,Arizona,Mohave County,334,1018,-684,1352,Domestic
+3851,006,037,004,021,California,Los Angeles County,Arizona,Pinal County,247,943,-696,1190,Domestic
+3918,006,037,006,079,California,Los Angeles County,California,San Luis Obispo County,1313,2021,-708,3334,Domestic
+4731,006,037,041,067,California,Los Angeles County,Oregon,Washington County,480,1234,-754,1714,Domestic
+3898,006,037,006,039,California,Los Angeles County,California,Madera County,153,915,-762,1068,Domestic
+4866,006,037,048,121,California,Los Angeles County,Texas,Denton County,231,1019,-788,1250,Domestic
+3922,006,037,006,087,California,Los Angeles County,California,Santa Cruz County,731,1549,-818,2280,Domestic
+4726,006,037,041,051,California,Los Angeles County,Oregon,Multnomah County,885,1737,-852,2622,Domestic
+3891,006,037,006,023,California,Los Angeles County,California,Humboldt County,367,1264,-897,1631,Domestic
+3882,006,037,006,001,California,Los Angeles County,California,Alameda County,4029,5031,-1002,9060,Domestic
+3902,006,037,006,047,California,Los Angeles County,California,Merced County,299,1360,-1061,1659,Domestic
+4864,006,037,048,113,California,Los Angeles County,Texas,Dallas County,1252,2434,-1182,3686,Domestic
+3889,006,037,006,019,California,Los Angeles County,California,Fresno County,1696,2931,-1235,4627,Domestic
+3935,006,037,006,113,California,Los Angeles County,California,Yolo County,582,1841,-1259,2423,Domestic
+3912,006,037,006,067,California,Los Angeles County,California,Sacramento County,2136,3553,-1417,5689,Domestic
+3921,006,037,006,085,California,Los Angeles County,California,Santa Clara County,3538,5003,-1465,8541,Domestic
+5030,006,037,053,033,California,Los Angeles County,Washington,King County,2991,4550,-1559,7541,Domestic
+4882,006,037,048,201,California,Los Angeles County,Texas,Harris County,1659,3381,-1722,5040,Domestic
+3920,006,037,006,083,California,Los Angeles County,California,Santa Barbara County,2397,4426,-2029,6823,Domestic
+3934,006,037,006,111,California,Los Angeles County,California,Ventura County,7847,10356,-2509,18203,Domestic
+3847,006,037,004,013,California,Los Angeles County,Arizona,Maricopa County,3216,6606,-3390,9822,Domestic
+3894,006,037,006,029,California,Los Angeles County,California,Kern County,4334,10906,-6572,15240,Domestic
+4477,006,037,032,003,California,Los Angeles County,Nevada,Clark County,5100,13738,-8638,18838,Domestic
+3911,006,037,006,065,California,Los Angeles County,California,Riverside County,11050,21313,-10263,32363,Domestic
+3908,006,037,006,059,California,Los Angeles County,California,Orange County,28524,39899,-11375,68423,Domestic
+3914,006,037,006,071,California,Los Angeles County,California,San Bernardino County,19670,38430,-18760,58100,Domestic
